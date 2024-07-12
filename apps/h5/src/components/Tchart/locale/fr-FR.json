@@ -1,0 +1,137 @@
+{
+  "resolutionLabels": {
+    "1": "1m",
+    "3": "3m",
+    "5": "5m",
+    "15": "15m",
+    "30": "30m",
+    "60": "1h",
+    "120": "2h",
+    "240": "4h",
+    "360": "6h",
+    "480": "8h",
+    "720": "12h",
+    "1D": "1d",
+    "3D": "3d",
+    "1W": "1w",
+    "1M": "1Mon"
+  },
+  "seriesType": {
+    "0": "Bougies",
+    "1": "Graphique en chandelier",
+    "2": "Dorite",
+    "3": "Région",
+    "4": "Renko",
+    "5": "Kagi",
+    "6": "Point et Figure",
+    "7": "Saut de ligne",
+    "8": "Heikin Ashi",
+    "9": "Bougies creuses",
+    "10": "Ligne de base",
+    "12": "Haut-bas",
+    "13": "Colonnes",
+    "14": "Ligne avec marqueurs",
+    "15": "Ligne en escalier",
+    "16": "Zone HLC"
+  },
+  "price": {
+    "new": "Dernier prix",
+    "index": "Prix de l'indice",
+    "mark": "Prix de la marque"
+  },
+  "screenshot": "Instantané",
+  "setting": "Paramètres du graphique",
+  "fullscreen": "Plein écran",
+  "clear": "Réinitialiser le graphique",
+  "clear_success": "Réinitialiser le graphique avec succès",
+  "indicator": "Indicateur",
+  "display": "Paramètres d'affichage",
+  "displayMenus": {
+    "orderQuick": "Ordre rapide",
+    "children": {
+      "orderQuick": {
+        "orderQuickMarket": "Commande de marché",
+        "orderQuickLimit": "Limiter la commande"
+      },
+      "otherSettings": {
+        "highLowPriceLabels": "Prix haut et bas",
+        "countdown": "Compte à rebours"
+      },
+      "positionCost": {
+        "positionCostLine": "Coût de la ligne de position",
+        "quickCloseButton": [
+          "Quick Close",
+          "Lorsque cette option est activée, vous pouvez clôturer la position au prix du marché directement sur le graphique en chandeliers"
+        ],
+        "quickTakeProfitStopLoss": [
+          "Quick TP/SL",
+          "Lorsque cette option est activée, vous pouvez créer un Take Profit et un Stop Loss en les faisant glisser directement sur le graphique en chandeliers"
+        ]
+      },
+      "limitOrders": {
+        "limitOrderLine": "Ligne d'ordre à cours limité",
+        "quickPriceAdjustmentLimit": [
+          "Quick Price Change",
+          "Lorsque cette option est activée, vous pouvez modifier le prix de l'ordre en le faisant glisser directement sur le graphique en chandeliers"
+        ],
+        "quickOrderCancellationLimit": [
+          "Annulation rapide",
+          "Lorsque cette option est activée, vous pouvez annuler rapidement les ordres en cliquant sur le bouton Annuler sur le graphique en chandeliers"
+        ]
+      },
+      "takeProfitStopLossOrders": {
+        "takeProfitStopLossLine": "Ligne TP/SL",
+        "quickPriceAdjustmentTake": [
+          "Quick Price Change",
+          "Lorsque cette option est activée, vous pouvez modifier le prix TP/SL en le faisant glisser directement sur le graphique en chandeliers"
+        ],
+        "quickOrderCancellationTake": [
+          "Annulation rapide",
+          "Une fois activé, vous pouvez annuler rapidement les ordres en cliquant sur le bouton Annuler sur le graphique en chandeliers"
+        ]
+      }
+    },
+    "transactionRecords": "Historique des transactions",
+    "positionCost": "Coût de la position",
+    "limitOrders": "Ordre à cours limité",
+    "takeProfitStopLossOrders": "Ordre TP/SL",
+    "otherSettings": "Autres réglages"
+  },
+  "order": {
+    "buy": "Acheter",
+    "sell": "Vendre",
+    "limitBuy": "Acheter",
+    "limitSell": "Vendre",
+    "number": "Quantité",
+    "costValue": "Valeur de coût",
+    "nominalValue": "Valeur nominale",
+    "numberPlaceholder": "Entrez la quantité",
+    "tipsy": {
+      "mini": "Quantité min.",
+      "close": "Fermer",
+      "position": "Taille de la position",
+      "profit": "PnL",
+      "cancel": "Annuler la commande",
+      "orderQuantity": "Quantité",
+      "limitPrice": "Limite",
+      "stopLoss": "Stop loss"
+    }
+  },
+  "connect": {
+    "connect_failed": "Réseau déconnecté",
+    "connect_ok": "Connexion stable",
+    "connect_retry": "Reconnexion",
+    "connect_unstable": "Connexion instable"
+  },
+  "resolutionContent": {
+    "title": "Sélectionner l'intervalle",
+    "edit": "Modifier",
+    "save": "Sauvegarder",
+    "add": "Ajoutée"
+  },
+  "saveImage": "Enregistrer l'image",
+  "copyImage": "Copier l'image",
+  "openImageNewTab": "Ouvrir l'image dans un nouvel onglet",
+  "copyImageAddress": "Copier l'adresse de l'image",
+  "selectLayout": "Sélectionner la mise en page"
+}

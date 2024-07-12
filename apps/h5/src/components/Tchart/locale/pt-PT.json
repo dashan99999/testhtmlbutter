@@ -1,0 +1,137 @@
+{
+  "resolutionLabels": {
+    "1": "1m",
+    "3": "3m",
+    "5": "5m",
+    "15": "15m",
+    "30": "30m",
+    "60": "1h",
+    "120": "2h",
+    "240": "4h",
+    "360": "6h",
+    "480": "8h",
+    "720": "12h",
+    "1D": "1d",
+    "3D": "3d",
+    "1W": "1w",
+    "1M": "1mon"
+  },
+  "seriesType": {
+    "0": "Barras",
+    "1": "Velas",
+    "2": "Linha",
+    "3": "Área ",
+    "4": "Renko",
+    "5": "Kagi",
+    "6": "Ponto e figura",
+    "7": "Quebra de linha",
+    "8": "Heikin Ashi",
+    "9": "Candles vazios",
+    "10": "Linha Base",
+    "12": "Alto - baixo",
+    "13": "Colunas",
+    "14": "Linha com marcadores",
+    "15": "Linha de passo",
+    "16": "Área HLC"
+  },
+  "price": {
+    "new": "Último preço",
+    "index": "Preço do índice",
+    "mark": "Preço de marca"
+  },
+  "screenshot": "Instantâneo",
+  "setting": "Configurações do gráfico",
+  "fullscreen": "Tela cheia",
+  "clear": "Redefinir gráfico",
+  "clear_success": "Redefinir gráfico com sucesso",
+  "indicator": "Indicador",
+  "display": "Configurações do visor",
+  "displayMenus": {
+    "orderQuick": "Ordem rápida",
+    "children": {
+      "orderQuick": {
+        "orderQuickMarket": "Mercado",
+        "orderQuickLimit": "Ordem limite"
+      },
+      "otherSettings": {
+        "highLowPriceLabels": "Preço alto e baixo",
+        "countdown": "Contagem regressiva"
+      },
+      "positionCost": {
+        "positionCostLine": "Linha de custo de posição",
+        "quickCloseButton": [
+          "Quick Close",
+          "Quando ativado, você pode fechar a posição no preço de mercado diretamente no gráfico de castiçais"
+        ],
+        "quickTakeProfitStopLoss": [
+          "Quick TP/SL",
+          "Quando ativado, você pode criar Take Profit e Stop Loss arrastando-os diretamente no gráfico de velas."
+        ]
+      },
+      "limitOrders": {
+        "limitOrderLine": "Linha de pedidos limitados",
+        "quickPriceAdjustmentLimit": [
+          "Mudança rápida de preço",
+          "Quando ativado, você pode modificar o preço do pedido, arrastando -o diretamente no gráfico de velas."
+        ],
+        "quickOrderCancellationLimit": [
+          "Cancelar rápido",
+          "uma vez ativado, você pode cancelar rapidamente os pedidos clicando no botão Cancelar no gráfico de velas."
+        ]
+      },
+      "takeProfitStopLossOrders": {
+        "takeProfitStopLossLine": "Linha TP/SL",
+        "quickPriceAdjustmentTake": [
+          "Mudança rápida de preço",
+          "Quando ativado, você pode modificar o preço do TP/SL arrastando -o diretamente no gráfico de velas."
+        ],
+        "quickOrderCancellationTake": [
+          "Cancelar rápido",
+          "uma vez ativado, você pode cancelar rapidamente os pedidos clicando no botão Cancelar no gráfico de velas."
+        ]
+      }
+    },
+    "transactionRecords": "História do Comércio",
+    "positionCost": "Custo de posição",
+    "limitOrders": "Ordem limite",
+    "takeProfitStopLossOrders": "Pedido TP/SL",
+    "otherSettings": "Outros ajustes"
+  },
+  "order": {
+    "buy": "Comprar",
+    "sell": "Vender",
+    "limitBuy": "Comprar",
+    "limitSell": "Vender",
+    "number": "Quantidade",
+    "costValue": "Valor de custo",
+    "nominalValue": "Valor nominal",
+    "numberPlaceholder": "Digite a quantidade",
+    "tipsy": {
+      "mini": "Min. quantidade",
+      "close": "Fechar",
+      "position": "Tamanho da posição",
+      "profit": "PnL",
+      "cancel": "Cancelar pedido",
+      "orderQuantity": "Quantidade",
+      "limitPrice": "Limite",
+      "stopLoss": "Parar a perda de"
+    }
+  },
+  "connect": {
+    "connect_failed": "Rede desconectada",
+    "connect_ok": "Conexão estável",
+    "connect_retry": "Reconectando",
+    "connect_unstable": "Conexão instável"
+  },
+  "resolutionContent": {
+    "title": "Selecione intervalo",
+    "edit": "Editar",
+    "save": "Salvar",
+    "add": "Adicionado"
+  },
+  "saveImage": "Salvar imagem",
+  "copyImage": "Copiar imagem",
+  "openImageNewTab": "Abra a imagem em uma nova aba",
+  "copyImageAddress": "Copie o endereço da imagem",
+  "selectLayout": "Selecione layout"
+}

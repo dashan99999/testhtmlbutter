@@ -1,0 +1,103 @@
+/* light */
+:root:not(.theme-dark) {
+  --tv-color-platform-background: #f2f3f5;
+  --tv-color-pane-background: #ffffff;
+  --tv-color-pane-background-secondary: #ffffff;
+  --tv-color-popup-background: #f2f3f5;
+  --tv-color-popup-element-text-active: black;
+  --tv-color-toolbar-button-text-active: #ea4b64;
+  --color-border-1: #e2e2e5;
+  --tv-color-toolbar-toggle-button-background-active: #ea4b64;
+  --tv-color-toolbar-toggle-button-background-active-hover: #ea4b64;
+  --base-color: #24c18d;
+}
+/* dark */
+.theme-dark:root {
+  --tv-color-platform-background: #000000;
+  --tv-color-pane-background: #000000;
+  --tv-color-pane-background-secondary: #000000;
+  --tv-color-popup-background: #1a1b1e;
+  --tv-color-popup-element-text-active: white;
+  --tv-color-toolbar-button-text-active: #ea4b64;
+  --color-border-1: #2a2f33;
+  --tv-color-toolbar-toggle-button-background-active: #ea4b64;
+  --tv-color-toolbar-toggle-button-background-active-hover: #ea4b64;
+  --base-color: #24c18d;
+}
+@media screen and (max-width: 768px) {
+  /* light */
+  :root:not(.theme-dark) {
+    --tv-color-platform-background: #ffffff;
+    --tv-color-pane-background: white;
+    --tv-color-pane-background-secondary: #f6f6f8;
+    --tv-color-popup-background: #ffffff;
+    --tv-color-popup-element-text-active: black;
+    --tv-color-toolbar-button-text-active: #ea4b64;
+    --color-border-1: #e2e2e9;
+    --tv-color-toolbar-toggle-button-background-active: #ea4b64;
+    --tv-color-toolbar-toggle-button-background-active-hover: #ea4b64;
+    --base-color: #24c18d;
+  }
+  /* dark */
+  .theme-dark:root {
+    --tv-color-platform-background: #0d0d0d;
+    --tv-color-pane-background: #000000;
+    --tv-color-pane-background-secondary: #000000;
+    --tv-color-popup-background: #121212;
+    --tv-color-popup-element-text-active: white;
+    --tv-color-toolbar-button-text-active: #ea4b64;
+    --color-border-1: #2a2f33;
+    --tv-color-toolbar-toggle-button-background-active: #ea4b64;
+    --tv-color-toolbar-toggle-button-background-active-hover: #ea4b64;
+    --base-color: #24c18d;
+  }
+}
+/* 成交量 */
+.paneSeparator-uqBaC1Ki {
+  background-color: var(--color-border-1) !important;
+}
+/* 左下角dateRange */
+.dateRangeWrapper-BXXUwft2 {
+  display: none;
+}
+@font-face {
+  font-family: 'HarmonyOS_Sans_Medium';
+  src: url('./Medium.woff2') format('woff2');
+}
+/* 覆盖TradingView的样式 */
+div[data-role='dialog-sidebar'] > div[class*='active-'] {
+  background-color: var(--base-color) !important;
+}
+input[type='checkbox']:checked + span[class*='check-'] {
+  background-color: var(--base-color) !important;
+  border-color: var(--base-color) !important;
+}
+span[class*='size-small-'][class*='highlight-'][class*='shown-'] {
+  border-color: var(--base-color) !important;
+}
+button[class*='button-'][class*='variant-secondary-'] {
+  border-radius: 4px !important;
+  --ui-lib-button-default-color-content: var(--base-color) !important;
+  --ui-lib-button-default-color-border: var(--base-color) !important;
+}
+button[class*='button-'][class*='variant-secondary-']:hover {
+  --ui-lib-button-default-color-bg: var(--base-color) !important;
+  color: white !important;
+}
+button[class*='button-'][class*='variant-primary-'] {
+  border-radius: 4px !important;
+  --ui-lib-button-default-color-border: var(--base-color) !important;
+  --ui-lib-button-default-color-bg: var(--base-color) !important;
+}
+div[class*='menuBox-'] div[class*='item-'][class*='active-'][class*='isActive-'] {
+  background-color: var(--base-color) !important;
+}
+div[class*='button-'][class*='isTransparent-'][class*='isActive-']:hover span[class*='icon-'] {
+  color: var(--base-color) !important;
+}
+div[class*='centerElement-'] div[class*='container-'] {
+  background-color: var(--base-color) !important;
+}
+html.theme-dark .chart-page .chart-container.multiple.active:after {
+  border-color: var(--base-color) !important;
+}

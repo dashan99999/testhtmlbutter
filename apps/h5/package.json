@@ -1,0 +1,43 @@
+{
+  "name": "@bitunix/h5",
+  "author": "Eden",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev --host",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "node ./scripts/postinstall.js && nuxt prepare",
+    "build:locale": "node ./scripts/build-locale.js type=h5 output=src/assets/locale stragery=tree"
+  },
+  "devDependencies": {
+    "@arco-themes/vue-h5-bitunix": "^0.0.3",
+    "@bitunix/shared": "workspace:^",
+    "@nuxt/devtools": "latest",
+    "@nuxtjs/i18n": "8.0.0-rc.2",
+    "@types/canvas-confetti": "^1.6.3",
+    "@types/js-cookie": "^3.0.3",
+    "@types/node": "^20.4.5",
+    "@unocss/nuxt": "^0.55.0",
+    "canvas-confetti": "^1.9.0",
+    "nuxt": "3.7.4",
+    "nuxt-simple-sitemap": "4.0.1",
+    "sass": "^1.71.1",
+    "unplugin-vue-components": "^0.22.12"
+  },
+  "dependencies": {
+    "@better-scroll/core": "^2.5.0",
+    "@better-scroll/mouse-wheel": "^2.5.0",
+    "@better-scroll/slide": "^2.5.1",
+    "@nuxt/image": "1.0.0-rc.1",
+    "@pinia/nuxt": "^0.4.11",
+    "@vant/use": "^1.5.2",
+    "@vite-pwa/nuxt": "^0.1.1",
+    "dom-to-image": "^2.6.0",
+    "floating-vue": "^5.2.2",
+    "mobile-detect": "^1.4.5",
+    "pako": "^2.1.0",
+    "pinia": "^2.1.6",
+    "vant": "^4.1.2"
+  }
+}

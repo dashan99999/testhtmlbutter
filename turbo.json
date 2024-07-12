@@ -1,0 +1,19 @@
+{
+  "$schema": "https://turbo.build/schema.json",
+  "globalDependencies": ["package.json", ".npmrc", "patches", "packages/shared/**", "apps/h5/nuxt.config.ts"],
+  "globalDotEnv": [".env.local", ".env", ".env.test", ".env.uat", ".env.development", ".env.production"],
+  "pipeline": {
+    "build": {
+      "outputs": ["dist/**", ".output/**", ".nuxt/**"]
+    },
+    "@bitunix/shared#build": {
+      "outputs": ["dist/**"]
+    },
+    "lint": {},
+    "dev": {
+      "cache": false,
+      "persistent": true
+    },
+    "preview": {}
+  }
+}

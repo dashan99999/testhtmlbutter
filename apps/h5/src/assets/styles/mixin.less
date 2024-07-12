@@ -1,0 +1,28 @@
+.no-scroll {
+  &::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    border-radius: 1px;
+    box-shadow: inset 0 0 1px #525e75;
+    background: #525e75;
+  }
+
+  &::-webkit-scrollbar-track {
+    border-radius: 0;
+  }
+
+  &::-webkit-scrollbar-corner {
+    display: none;
+  }
+
+  &:focus-within {
+    overflow: auto;
+  }
+
+  &:hover {
+    overflow: auto;
+  }
+}

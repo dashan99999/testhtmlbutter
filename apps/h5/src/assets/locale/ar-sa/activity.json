@@ -1,0 +1,23 @@
+{
+  "goal.task   ": "завдання",
+  "goal.taskList   ": "Список завдань",
+  "goal.taskListDesc": "Виконайте завдання, щоб отримати нагороди",
+  "goal.eventCapacity ": "Ємність ",
+  "goal.availableCapacity ": "Залишилося ",
+  "goal.activityRule": "правила",
+  "goal.qualifications": "Прийнятність",
+  "goal.ruleDesc": "Подробиці",
+  "goal.assetQualification": "Активи користувача: баланс ф’ючерсного рахунку ≥ {num} USDT",
+  "goal.registrationTip": "Подія розпочнеться о {time}, не забудьте приєднатися вчасно!",
+  "goal.futuresCoupon": "Ф'ючерсний бонус",
+  "goal.toUse": "Використовуйте зараз",
+  "goal.showOff ": "Поділіться зараз",
+  "goal.claimFail": "Претензія не вдалася",
+  "goal.claimFailTip": "Нагороди за завдання вже роздано, тож беріть участь у інших активних завданнях, щоб отримати нагороди!",
+  "goal.gotIt": "Зрозумів",
+  "goal.unlimited ": "Необмежений",
+  "goal.totalTradeVolume ": "Кумулятивний обсяг",
+  "goal.totalDepositAmount": "Накопичувальний депозит",
+  "goal.asset": "Активи",
+  "goal.futuresQualification": "Ф'ючерсний рахунок {num} USDT"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Kênh xác minh chính thức của  ",
+  "tip": "Để đảm bảo rằng bạn đang truy cập: {origin}",
+  "select.placeholder": "Chọn kênh",
+  "input.placeholder": "Vui lòng nhập thông tin truy vấn đầy đủ",
+  "text1": "Nhập thông tin để xác minh xem đó là kênh Bitunix chính thức",
+  "text2": "Nhắc nhở",
+  "text3": "Vui lòng đảm bảo rằng thông tin bạn nhập là chính xác, bao gồm viết hoa, khoảng cách, v.v.",
+  "text4": "Khi truy vấn một trang web, vui lòng nhập URL đầy đủ bắt đầu với http:// hoặc https://.",
+  "text5": "Thông tin bạn đã nhập là Bitunix chính thức {type}",
+  "text6": "Thông tin bạn đã nhập không phải là Bitunix chính thức {type}",
+  "select.title": "Chọn kênh",
+  "type.email": "Email",
+  "type.phone": "Số điện thoại",
+  "type.website": "website",
+  "empty.tip": "Nhập truy vấn",
+  "text7": "Đối với số điện thoại di động, vui lòng nhập toàn bộ số bắt đầu bằng mã vùng, chẳng hạn như: +84212345678",
+  "text8": "Đối với email, vui lòng nhập địa chỉ email đầy đủ và đảm bảo sự chính xác vì đây là mục nhạy cảm.",
+  "text9": "Đối với phương tiện mạng xã hội, chỉ có phương tiện URL được hỗ trợ. Vui lòng nhập URL đầy đủ bắt đầu với http:// hoặc https://.",
+  "text10": "Khi xác minh tài khoản WhatsApp, vui lòng nhập số đầy đủ bắt đầu bằng mã vùng, ví dụ: +94212345678."
+}

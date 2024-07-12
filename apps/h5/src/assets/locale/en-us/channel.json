@@ -1,0 +1,21 @@
+{
+  "title": "Official Verification Channel ",
+  "tip": "To ensure that you are accessing: {origin}",
+  "select.placeholder": "Select channel",
+  "input.placeholder": "Please enter the complete query information",
+  "text1": "Enter the information to verify if it is an official Bitunix channel",
+  "text2": "Friendly reminder",
+  "text3": "Please ensure that the information you enter is accurate, including capitalization, spacing, etc.",
+  "text4": "When querying a website, please enter the full URL starting with http:// or https://.",
+  "text5": "The information you entered is the official Bitunix {type}",
+  "text6": "The information you entered is NOT the official Bitunix {type}",
+  "select.title": "Select channel",
+  "type.email": "Email",
+  "type.phone": "mobile number",
+  "type.website": "website",
+  "empty.tip": "Enter query",
+  "text7": "For mobile number, please enter the full number starting with the area code, such as: +94212345678",
+  "text8": "For emails, please enter the full email address, and pay attention to case as this field is case-sensitive.",
+  "text9": "For social media, only the social media URL is supported. Please enter the full URL starting with http:// or https://.",
+  "text10": "When verifying WhatsApp account, please enter the full number starting with the area code, e.g. +94212345678."
+}

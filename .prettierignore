@@ -1,0 +1,11 @@
+/dist/*
+.local
+.output.js
+/node_modules/**
+**/*.svg
+**/*.sh
+/types/*
+/public/*
+.npmrc
+apps/h5/src/types/*
+apps/h5/src/public/*

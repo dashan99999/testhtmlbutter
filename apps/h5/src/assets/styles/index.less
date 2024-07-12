@@ -1,0 +1,219 @@
+/* stylelint-disable selector-class-pattern */
+/* stylelint-disable string-quotes */
+// 全局样式变量。优先使用 arco 内置样式变量
+@import url('./reset.less');
+@import url('./fonts.css');
+@import url('./mixin.less');
+@import url('./arco-custom.less');
+
+html,
+body {
+  background: var(--bx-bg);
+  color: var(--color-text-1);
+}
+
+#nprogress .bar {
+  background: rgb(var(--primary-color));
+}
+
+.common-input {
+  padding: 0;
+
+  &.van-cell {
+    padding: 0;
+    background-color: transparent;
+  }
+
+  & > .van-field__value > .van-field__body > .van-field__control {
+    padding: 30px 100px 30px 30px;
+    border-radius: var(--bx-radius-normal);
+    width: 100%;
+    height: 100px;
+    color: var(--color-text-1);
+    outline: none;
+    background-color: transparent;
+    border: 1px solid var(--color-bg-interactive-strong);
+    &:focus {
+      border: 1px solid #ea4b64;
+    }
+    &:disabled {
+      background-color: var(--color-bg-btn-disable) !important;
+      color: var(--color-text-3) !important;
+    }
+    &::placeholder {
+      color: var(--color-text-3);
+      font-size: 28px;
+    }
+
+    &.van-field__control--error,
+    &.van-field__control--error:focus {
+      border: 1px solid var(--bx-danger-color);
+    }
+  }
+
+  & > .van-field__value > .van-field__body {
+    position: relative;
+
+    .van-field__clear {
+      position: absolute;
+      right: 20px;
+      top: 30px;
+      bottom: 30px;
+      margin: auto;
+    }
+  }
+}
+
+.custom-field.van-cell {
+  padding: 0;
+}
+
+.popup-close {
+  position: absolute;
+  right: 30px;
+  top: 30px;
+}
+
+.bx-input {
+  &.van-cell {
+    padding: 0;
+  }
+  & > .van-field__value > .van-field__body > .van-field__control {
+    height: 100px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    background-color: transparent;
+    border: 1px solid var(--color-bg-interactive-strong);
+    padding-left: 32px;
+    &:focus {
+      border: 1px solid #ea4b64;
+    }
+    &.van-field__control--error,
+    &.van-field__control--error:focus {
+      border: 1px solid var(--bx-danger-color);
+      .error-container .van-field__control {
+        border: 1px solid var(--bx-danger-color);
+      }
+    }
+
+    &:disabled {
+      background-color: var(--color-bg-btn-disable) !important;
+      color: var(--color-text-3) !important;
+    }
+  }
+  &.van-field--error {
+    border: none !important;
+  }
+  &.no-error > .van-field__value > .van-field__body > .van-field__control {
+    &.van-field__control--error,
+    &.van-field__control--error:focus {
+      border: none;
+    }
+  }
+
+  &.van-field--disabled {
+    border: none !important;
+  }
+
+  &.no-padding > .van-field__value > .van-field__body > .van-field__control {
+    padding-left: 0;
+  }
+  &.mobile {
+    .van-field__control {
+      border: none !important;
+      &:focus {
+        border: none !important;
+      }
+    }
+    & > .van-cell__value > .van-field__body {
+      border: 1px solid var(--color-bg-interactive-strong);
+      border-radius: 10px;
+    }
+    &:hover {
+      & > .van-cell__value > .van-field__body {
+        border: 1px solid #ea4b64;
+      }
+    }
+  }
+  &.password {
+    position: relative;
+    .van-field__right-icon {
+      position: absolute;
+      right: 20px;
+      top: 28px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .van-field__control {
+      padding-right: 100px;
+    }
+  }
+  &.suffix {
+    .van-field__control {
+      border: none !important;
+      &:focus {
+        border: none !important;
+      }
+    }
+    & > .van-cell__value > .van-field__body {
+      border: 1px solid var(--color-bg-interactive-strong);
+      border-radius: 10px;
+      padding-right: 30px;
+    }
+    &:hover {
+      & > .van-cell__value > .van-field__body {
+        border: 1px solid #ea4b64;
+      }
+    }
+  }
+}
+
+.van-picker-column__item.van-picker-column__item--selected {
+  color: var(--color-text-1);
+}
+
+.van-toast__text {
+  font-size: var(--bx-font-size-select-sub) !important;
+}
+
+// 设置光标颜色
+.van-field__control,
+.arco-input {
+  caret-color: var(--color-text-1) !important;
+}
+
+.arco-input::placeholder {
+  color: var(--color-text-3) !important;
+}
+
+.van-button {
+  font-weight: var(--van-font-medium);
+}
+
+.van-button--disabled {
+  color: var(--bx-btn-disable-text-color);
+}
+
+input[type='password'] {
+  letter-spacing: 8px;
+  font-size: 28px;
+}
+input[type='password']::placeholder {
+  letter-spacing: 0 !important;
+}
+input::placeholder {
+  color: var(--color-text-3) !important;
+}
+.arco-input-wrapper,
+.arco-input-wrapper:hover {
+  background-color: var(--color-bg-secondary-strong) !important;
+}
+.scroll {
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.is-home #launcher {
+  bottom: 130px !important;
+}

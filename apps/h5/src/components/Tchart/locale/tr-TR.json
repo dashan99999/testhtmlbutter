@@ -1,0 +1,137 @@
+{
+  "resolutionLabels": {
+    "1": "1m",
+    "3": "3m",
+    "5": "5m",
+    "15": "15m",
+    "30": "30m",
+    "60": "1h",
+    "120": "2h",
+    "240": "4h",
+    "360": "6h",
+    "480": "8h",
+    "720": "12h",
+    "1D": "1d",
+    "3D": "3d",
+    "1W": "1w",
+    "1M": "1Mon"
+  },
+  "seriesType": {
+    "0": "Cubuk Grafikier",
+    "1": "Mum Grafikler",
+    "2": "Çizgi",
+    "3": "Alan",
+    "4": "Renko",
+    "5": "Kagi",
+    "6": "Nokta ve Şekil",
+    "7": "Satır sonu",
+    "8": "Heikin Ashi",
+    "9": "İçi boş mumlar",
+    "10": "Başlangıç Noktası",
+    "12": "Yüksek-düşük",
+    "13": "Sütunlar",
+    "14": "İşaretli çizgi",
+    "15": "Adım çizgisi",
+    "16": "HLC Alanı"
+  },
+  "price": {
+    "new": "Son fiyat",
+    "index": "Endeks fiyatı",
+    "mark": "Mark fiyatı"
+  },
+  "screenshot": "Anlık Görüntü",
+  "setting": "Grafik ayarları",
+  "fullscreen": "Tam ekran",
+  "clear": "Grafik Sıfırlama",
+  "clear_success": "Grafiği başarıyla sıfırla",
+  "indicator": "Gösterge",
+  "display": "Ekran ayarları",
+  "displayMenus": {
+    "orderQuick": "Hızlı sipariş",
+    "children": {
+      "orderQuick": {
+        "orderQuickMarket": "Market Emiri",
+        "orderQuickLimit": "Limitli emir"
+      },
+      "otherSettings": {
+        "highLowPriceLabels": "Yüksek ve düşük fiyat",
+        "countdown": "geri sayım"
+      },
+      "positionCost": {
+        "positionCostLine": "Pozisyon hattı maliyeti",
+        "quickCloseButton": [
+          "Hızlı Kapat",
+          "Etkinleştirildiğinde, pozisyonu doğrudan Mum Çubuğu grafiği üzerinde piyasa fiyatından kapatabilirsiniz"
+        ],
+        "quickTakeProfitStopLoss": [
+          "Hızlı TP/SL",
+          "Etkinleştirildiğinde, Kar Al ve Zararı Durdur'u doğrudan Mum Çubuğu grafiğine sürükleyerek oluşturabilirsiniz."
+        ]
+      },
+      "limitOrders": {
+        "limitOrderLine": "Limit emir hattı",
+        "quickPriceAdjustmentLimit": [
+          "Hızlı Fiyat Değişikliği",
+          "Etkinleştirildiğinde, emir fiyatını doğrudan Mum çubuğu grafiği üzerinde sürükleyerek değiştirebilirsiniz."
+        ],
+        "quickOrderCancellationLimit": [
+          "Hızlı İptal",
+          "Etkinleştirildiğinde, Mum çubuğu grafiğindeki İptal düğmesine tıklayarak emirleri hızlı bir şekilde iptal edebilirsiniz."
+        ]
+      },
+      "takeProfitStopLossOrders": {
+        "takeProfitStopLossLine": "TP/SL çizgisi",
+        "quickPriceAdjustmentTake": [
+          "Hızlı Fiyat Değişikliği",
+          "Etkinleştirildiğinde, TP/SL fiyatını doğrudan Mum grafiği üzerinde sürükleyerek değiştirebilirsiniz."
+        ],
+        "quickOrderCancellationTake": [
+          "Hızlı İptal",
+          "Etkinleştirildiğinde, Mum grafiğindeki İptal düğmesine tıklayarak emirleri hızlı bir şekilde iptal edebilirsiniz."
+        ]
+      }
+    },
+    "transactionRecords": "Ticaret geçmişi",
+    "positionCost": "Pozisyon maliyeti",
+    "limitOrders": "Limit emri",
+    "takeProfitStopLossOrders": "TP/SL siparişi",
+    "otherSettings": "Diğer ayarlar"
+  },
+  "order": {
+    "buy": "Satın Al",
+    "sell": "Satmak",
+    "limitBuy": "Satın Al",
+    "limitSell": "Satmak",
+    "number": "Miktar",
+    "costValue": "Maliyet değeri",
+    "nominalValue": "Nominal değeri",
+    "numberPlaceholder": "Miktarı girin",
+    "tipsy": {
+      "mini": "Min. miktar",
+      "close": "Kapat",
+      "position": "Pozisyon boyutu",
+      "profit": "PnL",
+      "cancel": "Siparişi iptal et",
+      "orderQuantity": "Miktar",
+      "limitPrice": "Limit",
+      "stopLoss": "Zararı durdur"
+    }
+  },
+  "connect": {
+    "connect_failed": "Ağ bağlantısı kesildi",
+    "connect_ok": "Kararlı bağlantı",
+    "connect_retry": "Yeniden Bağlanıyor",
+    "connect_unstable": "Kararsız bağlantı"
+  },
+  "resolutionContent": {
+    "title": "Aralık seçin",
+    "edit": "Düzenlemek",
+    "save": "Kaydetmek",
+    "add": "Katma"
+  },
+  "saveImage": "Resmi Kaydet",
+  "copyImage": "Resmi kopyala",
+  "openImageNewTab": "Yeni sekmede resmi açın",
+  "copyImageAddress": "Görüntü Adresini Kopyala",
+  "selectLayout": "Düzeni seçin"
+}

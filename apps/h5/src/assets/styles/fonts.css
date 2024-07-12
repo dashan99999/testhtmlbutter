@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'HarmonyOS_Sans_Regular';
+  src: url('/h5-static/KCNBFont/KCNBFont-Regular.ttf') format('woff');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'HarmonyOS_Sans_Medium';
+  src: url('/h5-static/KCNBFont/KCNBFont-Medium.ttf') format('woff');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'HarmonyOS_Sans_Bold';
+  src: url('/h5-static/KCNBFont/KCNBFont-Bold.ttf') format('woff');
+  font-display: swap;
+}
+
+body * {
+  font-family: 'HarmonyOS_Sans_Regular', 'PingFang SC', 'Microsoft Yahei';
+}

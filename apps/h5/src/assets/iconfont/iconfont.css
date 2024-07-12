@@ -1,0 +1,481 @@
+@font-face {
+  font-family: 'bitunix_iconfont'; /* Project id 4318987 */
+  src: url('iconfont.woff2?t=1703591009623') format('woff2'), url('iconfont.woff?t=1703591009623') format('woff'),
+    url('iconfont.ttf?t=1703591009623') format('truetype');
+}
+
+.bitunix_iconfont {
+  font-family: 'bitunix_iconfont' !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon_HOT-l:before {
+  content: '\e69f';
+}
+
+.icon_new:before {
+  content: '\e6a0';
+}
+
+.icon_twitter-s:before {
+  content: '\e69d';
+}
+
+.icon_approved:before {
+  content: '\e667';
+}
+
+.icon_info1:before {
+  content: '\e666';
+}
+
+.icon_wait:before {
+  content: '\e668';
+}
+
+.icon_verification:before {
+  content: '\e665';
+}
+
+.icon_close2:before {
+  content: '\e60a';
+}
+
+.icon_bitunix:before {
+  content: '\e694';
+}
+
+.icon_a-Group79:before {
+  content: '\e693';
+}
+
+.icon_Android:before {
+  content: '\e618';
+}
+
+.icon_Google:before {
+  content: '\e630';
+}
+
+.icon_close_popup:before {
+  content: '\e601';
+}
+
+.icon_goto:before {
+  content: '\e692';
+}
+
+.icon_help1:before {
+  content: '\e691';
+}
+
+.icon_refresh:before {
+  content: '\e690';
+}
+
+.icon_kline_drag:before {
+  content: '\e68e';
+}
+
+.icon_kline_dot:before {
+  content: '\e68f';
+}
+
+.icon_Calendar:before {
+  content: '\e609';
+}
+
+.icon_arrow_down:before {
+  content: '\e68c';
+}
+
+.icon_upward:before {
+  content: '\e608';
+}
+
+.icon_appearance:before {
+  content: '\e68a';
+}
+
+.icon_indicators:before {
+  content: '\e68b';
+}
+
+.icon_recharge:before {
+  content: '\e607';
+}
+
+.icon_depth_horizontal:before {
+  content: '\e605';
+}
+
+.icon_depth_portrait:before {
+  content: '\e606';
+}
+
+.icon_a-Bitunixlogolight1:before {
+  content: '\e689';
+}
+
+.icon_scan2:before {
+  content: '\e684';
+}
+
+.icon_switching:before {
+  content: '\e603';
+}
+
+.icon_open:before {
+  content: '\e657';
+}
+
+.icon_close1:before {
+  content: '\e658';
+}
+
+.icon_light:before {
+  content: '\e663';
+}
+
+.icon_dark:before {
+  content: '\e664';
+}
+
+.icon_cutover:before {
+  content: '\e660';
+}
+
+.icon_pc:before {
+  content: '\e661';
+}
+
+.icon_phone:before {
+  content: '\e662';
+}
+
+.icon_improve:before {
+  content: '\e65d';
+}
+
+.icon_charging:before {
+  content: '\e65e';
+}
+
+.icon_buying:before {
+  content: '\e65f';
+}
+
+.icon_qr:before {
+  content: '\e65c';
+}
+
+.icon_Frame:before {
+  content: '\e65b';
+}
+
+.icon_news_inside:before {
+  content: '\e659';
+}
+
+.icon_notice_inside:before {
+  content: '\e65a';
+}
+
+.icon_apple:before {
+  content: '\e653';
+}
+
+.icon_news:before {
+  content: '\e654';
+}
+
+.icon_facebook:before {
+  content: '\e655';
+}
+
+.icon_google:before {
+  content: '\e656';
+}
+
+.icon_reduce:before {
+  content: '\e651';
+}
+
+.icon_plus:before {
+  content: '\e652';
+}
+
+.icon_a-downloadtheapp:before {
+  content: '\e650';
+}
+
+.icon_rate:before {
+  content: '\e64f';
+}
+
+.icon_hamburg:before {
+  content: '\e64e';
+}
+
+.icon_language:before {
+  content: '\e64d';
+}
+
+.icon_rise:before {
+  content: '\e64c';
+}
+
+.icon_calendar:before {
+  content: '\e64b';
+}
+
+.icon_camera:before {
+  content: '\e64a';
+}
+
+.icon_add:before {
+  content: '\e649';
+}
+
+.icon_address:before {
+  content: '\e647';
+}
+
+.icon_question:before {
+  content: '\e648';
+}
+
+.icon_full:before {
+  content: '\e646';
+}
+
+.icon_fast_trade:before {
+  content: '\e645';
+}
+
+.icon_search:before {
+  content: '\e641';
+}
+
+.icon_scan:before {
+  content: '\e642';
+}
+
+.icon_service:before {
+  content: '\e643';
+}
+
+.icon_notice:before {
+  content: '\e644';
+}
+
+.icon_copy:before {
+  content: '\e63b';
+}
+
+.icon_right_triangle:before {
+  content: '\e63c';
+}
+
+.icon_tips:before {
+  content: '\e63d';
+}
+
+.icon_go_r:before {
+  content: '\e63e';
+}
+
+.icon_vip:before {
+  content: '\e63f';
+}
+
+.icon_choose_single:before {
+  content: '\e640';
+}
+
+.icon_unsee:before {
+  content: '\e63a';
+}
+
+.icon_back:before {
+  content: '\e639';
+}
+
+.icon_error:before {
+  content: '\e638';
+}
+
+.icon_share2:before {
+  content: '\e634';
+}
+
+.icon_save:before {
+  content: '\e635';
+}
+
+.icon_link:before {
+  content: '\e636';
+}
+
+.icon_screening:before {
+  content: '\e637';
+}
+
+.icon_chart_s:before {
+  content: '\e632';
+}
+
+.icon_share:before {
+  content: '\e633';
+}
+
+.icon_slidedown:before {
+  content: '\e62e';
+}
+
+.icon_history:before {
+  content: '\e62f';
+}
+
+.icon_arrow_updown:before {
+  content: '\e631';
+}
+
+.icon_setting:before {
+  content: '\e625';
+}
+
+.icon_transfer:before {
+  content: '\e626';
+}
+
+.icon_counter:before {
+  content: '\e627';
+}
+
+.icon_close:before {
+  content: '\e628';
+}
+
+.icon_info:before {
+  content: '\e629';
+}
+
+.icon_menu:before {
+  content: '\e62a';
+}
+
+.icon_chart:before {
+  content: '\e62b';
+}
+
+.icon_more:before {
+  content: '\e62c';
+}
+
+.icon_choose2:before {
+  content: '\e62d';
+}
+
+.icon_top:before {
+  content: '\e61a';
+}
+
+.icon_drop:before {
+  content: '\e621';
+}
+
+.icon_empty:before {
+  content: '\e622';
+}
+
+.icon_close_search:before {
+  content: '\e623';
+}
+
+.icon_delete:before {
+  content: '\e624';
+}
+
+.icon_caret_up:before {
+  content: '\e61d';
+}
+
+.icon_caret_down:before {
+  content: '\e61e';
+}
+
+.icon_star:before {
+  content: '\e61f';
+}
+
+.icon_unstar:before {
+  content: '\e620';
+}
+
+.icon_edit:before {
+  content: '\e61b';
+}
+
+.icon_choose:before {
+  content: '\e61c';
+}
+
+.icon_unchoose:before {
+  content: '\e619';
+}
+
+.icon_data:before {
+  content: '\e615';
+}
+
+.icon_help:before {
+  content: '\e616';
+}
+
+.icon_record:before {
+  content: '\e617';
+}
+
+.icon_go:before {
+  content: '\e60b';
+}
+
+.icon_list:before {
+  content: '\e60e';
+}
+
+.icon_hot:before {
+  content: '\e60f';
+}
+
+.icon_nav-home:before {
+  content: '\e610';
+}
+
+.icon_nav_assets:before {
+  content: '\e611';
+}
+
+.icon_nav_trade:before {
+  content: '\e612';
+}
+
+.icon_nav_markets:before {
+  content: '\e613';
+}
+
+.icon_qq:before {
+  content: '\e614';
+}
+
+.icon_avatar:before {
+  content: '\e60c';
+}
+
+.icon_see:before {
+  content: '\e60d';
+}

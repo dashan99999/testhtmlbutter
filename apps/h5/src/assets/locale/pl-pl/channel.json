@@ -1,0 +1,21 @@
+{
+  "title": "Oficjalny kanał weryfikacji",
+  "tip": "Aby upewnić się, że uzyskujesz dostęp: {origin}",
+  "select.placeholder": "Wybierz kanał",
+  "input.placeholder": "Wprowadź pełne informacje o zapytaniu",
+  "text1": "Wprowadź informacje, aby sprawdzić, czy jest to oficjalny kanał bitunix。",
+  "text2": "Przyjazne przypomnienie",
+  "text3": "Upewnij się, że wprowadzane informacje są dokładne, w tym wielkie litery, odstępy itp.",
+  "text4": "W przypadku zapytania o stronę internetową należy wprowadzić pełny adres URL zaczynający się od http:// lub https://.",
+  "text5": "Wprowadzone informacje to oficjalny bitunix {type}",
+  "text6": "Wprowadzone informacje nie są oficjalnym bitunix {type}",
+  "select.title": "Wybierz kanał",
+  "type.email": "E-mail",
+  "type.phone": "Telefon komórkowy",
+  "type.website": "strona internetowa",
+  "empty.tip": "Wprowadź zapytanie",
+  "text7": "W przypadku numeru telefonu komórkowego należy wprowadzić pełny numer zaczynający się od numeru kierunkowego, np: +94212345678",
+  "text8": "W przypadku wiadomości e-mail wprowadź pełny adres e-mail i zwróć uwagę na wielkość liter, ponieważ w tym polu rozróżniana jest wielkość liter.",
+  "text9": "W przypadku mediów społecznościowych obsługiwany jest tylko adres URL mediów społecznościowych. Wprowadź pełny adres URL zaczynający się od http:// lub https://.",
+  "text10": "Podczas weryfikacji konta WhatsApp prosimy o podanie pełnego numeru zaczynającego się od numeru kierunkowego, np. +94212345678."
+}

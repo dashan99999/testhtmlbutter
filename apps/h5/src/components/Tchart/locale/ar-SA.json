@@ -1,0 +1,19 @@
+{
+  "resolutionLabels": {},
+  "seriesType": {},
+  "price": {},
+  "displayMenus": {
+    "children": {
+      "orderQuick": {},
+      "otherSettings": {},
+      "positionCost": {},
+      "limitOrders": {},
+      "takeProfitStopLossOrders": {}
+    }
+  },
+  "order": {
+    "tipsy": {}
+  },
+  "connect": {},
+  "resolutionContent": {}
+}

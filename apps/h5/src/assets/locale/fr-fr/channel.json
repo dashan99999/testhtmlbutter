@@ -1,0 +1,21 @@
+{
+  "title": "Channel de vérification officielle",
+  "tip": "Pour vous assurer que vous accédez: {origin}",
+  "select.placeholder": "Sélectionner le canal",
+  "input.placeholder": "Veuillez saisir les informations de requête complètes",
+  "text1": "Entrez les informations pour vérifier s'il s'agit d'une chaîne BitUnix officielle。",
+  "text2": "Rappel amical",
+  "text3": "Veuillez vous assurer que les informations que vous entrez sont exactes, y compris la capitalisation, l'espacement, etc.",
+  "text4": "Lorsque vous interrogez un site Web, veuillez saisir l'URL complète en commençant par http: // ou https: //.",
+  "text5": "Les informations que vous avez entrées sont le Bitunix officiel {type}",
+  "text6": "Les informations que vous avez saisies ne sont pas le BitUnix officiel {type}",
+  "select.title": "Sélectionner le canal",
+  "type.email": "E-mail",
+  "type.phone": "numéro de portable",
+  "type.website": "site web",
+  "empty.tip": "Entrez la requête",
+  "text7": "Pour le numéro de mobile, veuillez saisir le numéro complet à partir du code régional, tel que: +94212345678",
+  "text8": "Pour les e-mails, veuillez saisir l'adresse e-mail complète et faire attention à l'affaire car ce champ est sensible à la casse.",
+  "text9": "Pour les médias sociaux, seule l'URL des médias sociaux est soutenue. Veuillez saisir l'URL complète à partir de http: // ou https: //.",
+  "text10": "Lors de la vérification du compte WhatsApp, veuillez saisir le numéro complet commençant par l'indicatif régional, par exemple. +94212345678."
+}

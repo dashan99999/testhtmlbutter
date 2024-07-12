@@ -1,0 +1,137 @@
+{
+  "resolutionLabels": {
+    "1": "1m",
+    "3": "3m",
+    "5": "5m",
+    "15": "15m",
+    "30": "30m",
+    "60": "1h",
+    "120": "2h",
+    "240": "4h",
+    "360": "6h",
+    "480": "8h",
+    "720": "12h",
+    "1D": "1d",
+    "3D": "3d",
+    "1W": "1W",
+    "1M": "1 mese"
+  },
+  "seriesType": {
+    "0": "Grafico OHLC",
+    "1": "Grafico a candela",
+    "2": "Grafico delle linee",
+    "3": "Grafico dell'area",
+    "4": "Renko",
+    "5": "Kagi",
+    "6": "Punto e figura",
+    "7": "Interruzione di linea",
+    "8": "Heikin Ashi",
+    "9": "Candele vuote",
+    "10": "Basale",
+    "12": "Alto - basso",
+    "13": "Colonne",
+    "14": "Linea con marcatori",
+    "15": "Step line",
+    "16": "Area HLC"
+  },
+  "price": {
+    "new": "Ultimo prezzo",
+    "index": "Prezzo dell'indice",
+    "mark": "Contrassegnare il prezzo"
+  },
+  "screenshot": "Istantanea",
+  "setting": "Impostazioni del grafico",
+  "fullscreen": "A schermo intero",
+  "clear": "RESET DRAGLIO",
+  "clear_success": "Ripristina il grafico correttamente",
+  "indicator": "Indicatore",
+  "display": "Impostazioni di visualizzazione",
+  "displayMenus": {
+    "orderQuick": "Ordine rapido",
+    "children": {
+      "orderQuick": {
+        "orderQuickMarket": "Mercato",
+        "orderQuickLimit": "Ordine limite"
+      },
+      "otherSettings": {
+        "highLowPriceLabels": "Prezzo alto e basso",
+        "countdown": "Conto alla rovescia"
+      },
+      "positionCost": {
+        "positionCostLine": "Costo della posizione di posizione",
+        "quickCloseButton": [
+          "Quick Close",
+          "Se abilitato, è possibile chiudere la posizione al prezzo di mercato direttamente sul grafico Candlestick"
+        ],
+        "quickTakeProfitStopLoss": [
+          "Quick TP/SL",
+          "Se abilitato, è possibile creare Take Profit e Stop Loss trascinandoli direttamente sul grafico Candlestick"
+        ]
+      },
+      "limitOrders": {
+        "limitOrderLine": "Limit order line",
+        "quickPriceAdjustmentLimit": [
+          "Modifica rapida del prezzo",
+          "Se abilitata, è possibile modificare il prezzo dell'ordine trascinandolo direttamente sul grafico Candlestick"
+        ],
+        "quickOrderCancellationLimit": [
+          "Annullamento rapido",
+          "Una volta abilitato, è possibile annullare rapidamente gli ordini facendo clic sul pulsante Annulla sul grafico Candlestick"
+        ]
+      },
+      "takeProfitStopLossOrders": {
+        "takeProfitStopLossLine": "TP/SL line",
+        "quickPriceAdjustmentTake": [
+          "Modifica rapida del prezzo",
+          "Se attivata, è possibile modificare il prezzo TP/SL trascinandolo direttamente sul grafico Candlestick"
+        ],
+        "quickOrderCancellationTake": [
+          "Annullamento rapido",
+          "Una volta abilitato, è possibile annullare rapidamente gli ordini facendo clic sul pulsante Annulla sul grafico Candlestick"
+        ]
+      }
+    },
+    "transactionRecords": "Storia commerciale",
+    "positionCost": "Costo della posizione",
+    "limitOrders": "Ordine limite",
+    "takeProfitStopLossOrders": "Ordine TP/SL",
+    "otherSettings": "Altre impostazioni"
+  },
+  "order": {
+    "buy": "Acquistare",
+    "sell": "Vendere",
+    "limitBuy": "Acquistare",
+    "limitSell": "Vendere",
+    "number": "Quantità",
+    "costValue": "Valore di costo",
+    "nominalValue": "Valore nominale",
+    "numberPlaceholder": "Immettere la quantità",
+    "tipsy": {
+      "mini": "Min. quantità",
+      "close": "Vicino",
+      "position": "Dimensione della posizione",
+      "profit": "PnL",
+      "cancel": "Annulla Ordine",
+      "orderQuantity": "Quantità",
+      "limitPrice": "Limite",
+      "stopLoss": "Fermare la perdita"
+    }
+  },
+  "connect": {
+    "connect_failed": "Rete disconnessa",
+    "connect_ok": "Connessione stabile",
+    "connect_retry": "Riconnessione",
+    "connect_unstable": "Connessione instabile"
+  },
+  "resolutionContent": {
+    "title": "Seleziona Interval",
+    "edit": "Modificare",
+    "save": "Salva",
+    "add": "Aggiunto"
+  },
+  "saveImage": "Salva immagine",
+  "copyImage": "Copia l'immagine",
+  "openImageNewTab": "Apri immagine nella nuova scheda",
+  "copyImageAddress": "Copia l'indirizzo dell'immagine",
+  "selectLayout": "Seleziona layout"
+}

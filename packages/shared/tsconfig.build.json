@@ -1,0 +1,36 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "strict": true,
+    "noLib": false,
+    "forceConsistentCasingInFileNames": true,
+    "allowSyntheticDefaultImports": true,
+    "strictFunctionTypes": false,
+    "jsx": "preserve",
+    "baseUrl": ".",
+    "noEmit": false,
+    "allowJs": true,
+    "sourceMap": false,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "experimentalDecorators": true,
+    "lib": ["dom", "esnext"],
+    "noImplicitAny": false,
+    "skipLibCheck": true,
+    "removeComments": true,
+    // 解决测试文件中的 '--isolatedModules'报错
+    "isolatedModules": true,
+    "declaration": true,
+    "preserveSymlinks": true,
+    "outDir": "./dist",
+    "paths": {
+      "#shared/*": ["./*"]
+    }
+  },
+  "include": ["./plugins/**/*.ts", "./plugins/**/*.js"],
+  "exclude": ["node_modules"]
+}

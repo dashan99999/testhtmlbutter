@@ -1,0 +1,137 @@
+{
+  "resolutionLabels": {
+    "1": "1점",
+    "3": "3점",
+    "5": "5점",
+    "15": "15점",
+    "30": "30점",
+    "60": "1시간",
+    "120": "2시간",
+    "240": "4시간",
+    "360": "6시간",
+    "480": "8시간",
+    "720": "12시간",
+    "1D": "1일",
+    "3D": "3일",
+    "1W": "1주일",
+    "1M": "1개월"
+  },
+  "seriesType": {
+    "0": "붕",
+    "1": "캔들",
+    "2": "라인",
+    "3": "영역",
+    "4": "렌코",
+    "5": "카기",
+    "6": "포인트앤피겨",
+    "7": "라인브레이크",
+    "8": "하이킨 아시",
+    "9": "할로우캔들",
+    "10": "베이스라인",
+    "12": "하이-로우",
+    "13": "컬럼",
+    "14": "마커가 있는 라인",
+    "15": "스텝 라인",
+    "16": "HLC 영역"
+  },
+  "price": {
+    "new": "최근 가격",
+    "index": "지수 가격",
+    "mark": "표시된 가격"
+  },
+  "screenshot": "스냅샷",
+  "setting": "차트 설정",
+  "fullscreen": "전체 화면",
+  "clear": "차트 초기화",
+  "clear_success": "차트 초기화 성공",
+  "indicator": "기술 지표",
+  "display": "디스플레이 설정",
+  "displayMenus": {
+    "orderQuick": "빠른 주문",
+    "children": {
+      "orderQuick": {
+        "orderQuickMarket": "시장 주문",
+        "orderQuickLimit": "제한 순서"
+      },
+      "otherSettings": {
+        "highLowPriceLabels": "높고 저렴한 가격",
+        "countdown": "카운트 다운"
+      },
+      "positionCost": {
+        "positionCostLine": "포지션 비용 라인",
+        "quickCloseButton": [
+          "빠른 청산 버튼",
+          "활성화하면 K 차트에서 바로 시장가 청산을 실행할 수 있습니다."
+        ],
+        "quickTakeProfitStopLoss": [
+          "퀵 테이크프로핏 및 스톱로스",
+          "활성화하면 K 차트에서 직접 드래그하여 테이크프로핏 및 스톱로스를 생성할 수 있습니다."
+        ]
+      },
+      "limitOrders": {
+        "limitOrderLine": "지정가 주문 라인",
+        "quickPriceAdjustmentLimit": [
+          "빠른 가격 변경",
+          "활성화되면 K 차트에서 직접 드래그하여 커미션 가격을 수정할 수 있습니다."
+        ],
+        "quickOrderCancellationLimit": [
+          "빠른 출금",
+          "활성화되면 출금 버튼을 사용하여 K 차트에서 직접 주문을 빠르게 출금 할 수 있습니다."
+        ]
+      },
+      "takeProfitStopLossOrders": {
+        "takeProfitStopLossLine": "이익실현 스톱로스 라인",
+        "quickPriceAdjustmentTake": [
+          "빠른 가격 변경",
+          "활성화되면 K 차트에서 직접 드래그하여 이익실현 및 손절매 가격을 변경할 수 있습니다."
+        ],
+        "quickOrderCancellationTake": [
+          "빠른 출금",
+          "활성화되면 출금 버튼을 사용하여 K 차트에서 직접 주문을 빠르게 출금 할 수 있습니다."
+        ]
+      }
+    },
+    "transactionRecords": "거래 내역",
+    "positionCost": "포지션 비용",
+    "limitOrders": "지정가 주문",
+    "takeProfitStopLossOrders": "이익실현 손절 주문",
+    "otherSettings": "다른 설정"
+  },
+  "order": {
+    "buy": "시장가 매수",
+    "sell": "시장가 매도",
+    "limitBuy": "제한 매수",
+    "limitSell": "매도 제한",
+    "number": "수량",
+    "costValue": "비용 가치",
+    "nominalValue": "명목 가치",
+    "numberPlaceholder": "주문 수량을 입력하세요.",
+    "tipsy": {
+      "mini": "최소 주문 수량",
+      "close": "포지션 닫기",
+      "position": "보유 포지션",
+      "profit": "PnL",
+      "cancel": "출금",
+      "orderQuantity": "위탁 거래량",
+      "limitPrice": "제한",
+      "stopLoss": "손절매"
+    }
+  },
+  "connect": {
+    "connect_failed": "네트워크 연결 끊김",
+    "connect_ok": "안정적인 연결",
+    "connect_retry": "재연결",
+    "connect_unstable": "불안정한 연결"
+  },
+  "resolutionContent": {
+    "title": "주기 선택",
+    "edit": "편집",
+    "save": "저장",
+    "add": "추가됨"
+  },
+  "saveImage": "이미지를 저장",
+  "copyImage": "복사 이미지",
+  "openImageNewTab": "새 탭에서 이미지 열기",
+  "copyImageAddress": "이미지 주소를 복사하십시오",
+  "selectLayout": "레이아웃을 선택하십시오"
+}

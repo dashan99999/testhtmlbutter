@@ -1,0 +1,137 @@
+{
+  "resolutionLabels": {
+    "1": "1分",
+    "3": "3分",
+    "5": "5分",
+    "15": "15分",
+    "30": "30分",
+    "60": "1時間",
+    "120": "2時間",
+    "240": "4時間",
+    "360": "6時間",
+    "480": "8時間",
+    "720": "12時間",
+    "1D": "1日",
+    "3D": "3日",
+    "1W": "1週間",
+    "1M": "1ヶ月"
+  },
+  "seriesType": {
+    "0": "バー",
+    "1": "ローソク足",
+    "2": "ライン",
+    "3": "エリア",
+    "4": "レンコー",
+    "5": "カギチャート",
+    "6": "ポイント＆フィギュア",
+    "7": "新値足",
+    "8": "平均足",
+    "9": "中空ローソク足",
+    "10": "ベースライン",
+    "12": "ハイロー",
+    "13": "棒グラフ",
+    "14": "マーク付きライン",
+    "15": "ステップライン",
+    "16": "HLCエリア"
+  },
+  "price": {
+    "new": "最終価格",
+    "index": "指数価格",
+    "mark": "マーク価格"
+  },
+  "screenshot": "スナップショット",
+  "setting": "チャート設定",
+  "fullscreen": "フルスクリーン",
+  "clear": "チャートのリセット",
+  "clear_success": "チャートのリセット",
+  "indicator": "テクニカル指標",
+  "display": "表示設定",
+  "displayMenus": {
+    "orderQuick": "クイック注文",
+    "children": {
+      "orderQuick": {
+        "orderQuickMarket": "成行",
+        "orderQuickLimit": "制限"
+      },
+      "otherSettings": {
+        "highLowPriceLabels": "高値·安値",
+        "countdown": "カウントダウン"
+      },
+      "positionCost": {
+        "positionCostLine": "ポジションコスト行",
+        "quickCloseButton": [
+          "クイッククローズボタン",
+          "有効にすると、Kチャート上で直接マーケットクローズを実行することができます"
+        ],
+        "quickTakeProfitStopLoss": [
+          "クイックテイクプロフィット＆ストップロス",
+          "有効にすると、Kチャート上で直接ドラッグしてテイクプロフィットとストップロスを作成することができます"
+        ]
+      },
+      "limitOrders": {
+        "limitOrderLine": "指値注文ライン",
+        "quickPriceAdjustmentLimit": [
+          "クイック価格変更",
+          "有効にすると、K チャート上で直接ドラッグすることにより、委託価格を変更できます"
+        ],
+        "quickOrderCancellationLimit": [
+          "クイック出金",
+          "有効にすると、出金ボタンを使ってKチャートから直接素早く注文を出金することができます"
+        ]
+      },
+      "takeProfitStopLossOrders": {
+        "takeProfitStopLossLine": "利食い損切りライン",
+        "quickPriceAdjustmentTake": [
+          "クイック価格変更",
+          "有効にすると、K チャート上で直接ドラッグすることにより、利食い価格と損切り価格を変更できます"
+        ],
+        "quickOrderCancellationTake": [
+          "クイック出金",
+          "有効にすると、出金ボタンを使ってKチャートから直接素早く注文を出金することができます"
+        ]
+      }
+    },
+    "transactionRecords": "取引履歴",
+    "positionCost": "ポジションコスト",
+    "limitOrders": "指値注文",
+    "takeProfitStopLossOrders": "利益確定ストップロス注文",
+    "otherSettings": "その他の設定"
+  },
+  "order": {
+    "buy": "成行買い",
+    "sell": "成行売り",
+    "limitBuy": "指値買い",
+    "limitSell": "売り指値",
+    "number": "数量",
+    "costValue": "コスト",
+    "nominalValue": "呼び値",
+    "numberPlaceholder": "注文数を入力してください。",
+    "tipsy": {
+      "mini": "最小注文数量",
+      "close": "クローズポジション",
+      "position": "保有ポジション",
+      "profit": "PnL",
+      "cancel": "出金",
+      "orderQuantity": "委託数量",
+      "limitPrice": "リミット",
+      "stopLoss": "ストップロス"
+    }
+  },
+  "connect": {
+    "connect_failed": "ネットワーク切断",
+    "connect_ok": "安定した接続",
+    "connect_retry": "再接続",
+    "connect_unstable": "不安定な接続"
+  },
+  "resolutionContent": {
+    "title": "サイクルの選択",
+    "edit": "編集",
+    "save": "保存",
+    "add": "追加完了"
+  },
+  "saveImage": "画像を保存",
+  "copyImage": "画像をコピーします",
+  "openImageNewTab": "新しいタブで画像を開きます",
+  "copyImageAddress": "画像アドレスをコピーします",
+  "selectLayout": "レイアウト選択"
+}

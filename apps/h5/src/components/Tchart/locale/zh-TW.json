@@ -1,0 +1,137 @@
+{
+  "resolutionLabels": {
+    "1": "1分",
+    "3": "3分",
+    "5": "5分",
+    "15": "15分",
+    "30": "30分",
+    "60": "1小時",
+    "120": "2小時",
+    "240": "4小時",
+    "360": "6小時",
+    "480": "8小時",
+    "720": "12小時",
+    "1D": "1天",
+    "3D": "3天",
+    "1W": "1周",
+    "1M": "1月"
+  },
+  "seriesType": {
+    "0": "美國線",
+    "1": "K線圖",
+    "2": "線形圖",
+    "3": "面積圖",
+    "4": "Renko",
+    "5": "卡吉圖",
+    "6": "點和圖",
+    "7": "新價線",
+    "8": "平均K線圖",
+    "9": "空心K線圖",
+    "10": "基準線",
+    "12": "高-低",
+    "13": "柱狀圖",
+    "14": "帶標記線",
+    "15": "階梯線",
+    "16": "HLC區域"
+  },
+  "price": {
+    "new": "最新價格",
+    "index": "指數價格",
+    "mark": "標記價格"
+  },
+  "screenshot": "快照",
+  "setting": "圖表設置",
+  "fullscreen": "全屏",
+  "clear": "重置圖表",
+  "clear_success": "重置圖表成功",
+  "indicator": "技術指標",
+  "display": "顯示設置",
+  "displayMenus": {
+    "orderQuick": "快捷下單",
+    "children": {
+      "orderQuick": {
+        "orderQuickMarket": "市價下單",
+        "orderQuickLimit": "限價下單"
+      },
+      "otherSettings": {
+        "highLowPriceLabels": "高低價標籤",
+        "countdown": "倒計時"
+      },
+      "positionCost": {
+        "positionCostLine": "持倉成本線",
+        "quickCloseButton": [
+          "快捷平倉按鈕",
+          "開啟後，您可以直接在K線圖上執行市價全平"
+        ],
+        "quickTakeProfitStopLoss": [
+          "快捷止盈止損",
+          "開啟後，您可以直接在K線圖上通過拖動創建止盈止損"
+        ]
+      },
+      "limitOrders": {
+        "limitOrderLine": "限價委託線",
+        "quickPriceAdjustmentLimit": [
+          "快捷改價",
+          "開啟後，您可以直接在K線圖上通過拖動修改委託價格"
+        ],
+        "quickOrderCancellationLimit": [
+          "快捷撤單",
+          "開啟後，您可以直接在K線圖上通過撤單按鈕進行快速撤單"
+        ]
+      },
+      "takeProfitStopLossOrders": {
+        "takeProfitStopLossLine": "止盈止損線",
+        "quickPriceAdjustmentTake": [
+          "快捷改價",
+          "開啟後，您可以直接在K線圖上通過拖動修改止盈止損價格"
+        ],
+        "quickOrderCancellationTake": [
+          "快捷撤單",
+          "開啟後，您可以直接在K線圖上通過撤單按鈕進行快速撤單"
+        ]
+      }
+    },
+    "transactionRecords": "成交記錄",
+    "positionCost": "持倉成本",
+    "limitOrders": "限價委託",
+    "takeProfitStopLossOrders": "止盈止損委託",
+    "otherSettings": "其他設置"
+  },
+  "order": {
+    "buy": "市價買入",
+    "sell": "市價賣出",
+    "limitBuy": "限價買入",
+    "limitSell": "限價賣出",
+    "number": "數量",
+    "costValue": "成本價值",
+    "nominalValue": "名義價值",
+    "numberPlaceholder": "請輸入下單數量",
+    "tipsy": {
+      "mini": "最小下單數量",
+      "close": "平倉",
+      "position": "持倉量",
+      "profit": "收益",
+      "cancel": "撤回訂單",
+      "orderQuantity": "委託量",
+      "limitPrice": "限價",
+      "stopLoss": "止損"
+    }
+  },
+  "connect": {
+    "connect_failed": "網絡斷線",
+    "connect_ok": "連接穩定",
+    "connect_retry": "重新連接中",
+    "connect_unstable": "連接不穩定"
+  },
+  "resolutionContent": {
+    "title": "選擇週期",
+    "edit": "編輯",
+    "save": "儲存",
+    "add": "已添加"
+  },
+  "saveImage": "儲存圖片",
+  "copyImage": "複製圖表圖片",
+  "openImageNewTab": "在新頁籤中開啟圖片",
+  "copyImageAddress": "複製圖片連結",
+  "selectLayout": "選擇布局"
+}

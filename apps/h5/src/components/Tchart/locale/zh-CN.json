@@ -1,0 +1,137 @@
+{
+  "resolutionLabels": {
+    "1": "1分",
+    "3": "3分",
+    "5": "5分",
+    "15": "15分",
+    "30": "30分",
+    "60": "1小时",
+    "120": "2小时",
+    "240": "4小时",
+    "360": "6小时",
+    "480": "8小时",
+    "720": "12小时",
+    "1D": "1天",
+    "3D": "3天",
+    "1W": "1周",
+    "1M": "1月"
+  },
+  "seriesType": {
+    "0": "美国线",
+    "1": "K线图",
+    "2": "线形图",
+    "3": "面积图",
+    "4": "Renko",
+    "5": "卡吉图",
+    "6": "点和图",
+    "7": "新价线",
+    "8": "平均K线图",
+    "9": "空心K线图",
+    "10": "基准线",
+    "12": "高-低",
+    "13": "柱状图",
+    "14": "带标记线",
+    "15": "阶梯线",
+    "16": "HLC区域"
+  },
+  "price": {
+    "new": "最新价格",
+    "index": "指数价格",
+    "mark": "标记价格"
+  },
+  "screenshot": "快照",
+  "setting": "图表设置",
+  "fullscreen": "全屏",
+  "clear": "重置图表",
+  "clear_success": "重置图表成功",
+  "indicator": "技术指标",
+  "display": "显示设置",
+  "displayMenus": {
+    "orderQuick": "快捷下单",
+    "children": {
+      "orderQuick": {
+        "orderQuickMarket": "市价下单",
+        "orderQuickLimit": "限价下单"
+      },
+      "otherSettings": {
+        "highLowPriceLabels": "高低价标签",
+        "countdown": "倒计时"
+      },
+      "positionCost": {
+        "positionCostLine": "持仓成本线",
+        "quickCloseButton": [
+          "快捷平仓按钮",
+          "开启后，您可以直接在K线图上执行市价全平"
+        ],
+        "quickTakeProfitStopLoss": [
+          "快捷止盈止损",
+          "开启后，您可以直接在K线图上通过拖动创建止盈止损"
+        ]
+      },
+      "limitOrders": {
+        "limitOrderLine": "限价委托线",
+        "quickPriceAdjustmentLimit": [
+          "快捷改价",
+          "开启后，您可以直接在K线图上通过拖动修改委托价格"
+        ],
+        "quickOrderCancellationLimit": [
+          "快捷撤单",
+          "开启后，您可以直接在K线图上通过撤单按钮进行快速撤单"
+        ]
+      },
+      "takeProfitStopLossOrders": {
+        "takeProfitStopLossLine": "止盈止损线",
+        "quickPriceAdjustmentTake": [
+          "快捷改价",
+          "开启后，您可以直接在K线图上通过拖动修改止盈止损价格"
+        ],
+        "quickOrderCancellationTake": [
+          "快捷撤单",
+          "开启后，您可以直接在K线图上通过撤单按钮进行快速撤单"
+        ]
+      }
+    },
+    "transactionRecords": "成交记录",
+    "positionCost": "持仓成本",
+    "limitOrders": "限价委托",
+    "takeProfitStopLossOrders": "止盈止损委托",
+    "otherSettings": "其他设置"
+  },
+  "order": {
+    "buy": "市价买入",
+    "sell": "市价卖出",
+    "limitBuy": "限价买入",
+    "limitSell": "限价卖出",
+    "number": "数量",
+    "costValue": "成本价值",
+    "nominalValue": "名义价值",
+    "numberPlaceholder": "请输入下单数量",
+    "tipsy": {
+      "mini": "最小下单数量",
+      "close": "平仓",
+      "position": "持仓量",
+      "profit": "收益",
+      "cancel": "撤回订单",
+      "orderQuantity": "委托量",
+      "limitPrice": "限价",
+      "stopLoss": "止损"
+    }
+  },
+  "connect": {
+    "connect_failed": "网络断线",
+    "connect_ok": "连接稳定",
+    "connect_retry": "重新连接中",
+    "connect_unstable": "连接不稳定"
+  },
+  "resolutionContent": {
+    "title": "选择周期",
+    "edit": "编辑",
+    "save": "保存",
+    "add": "已添加"
+  },
+  "saveImage": "保存图片",
+  "copyImage": "复制图表图片",
+  "openImageNewTab": "在新标签中打开图片",
+  "copyImageAddress": "复制图片链接",
+  "selectLayout": "选择布局"
+}

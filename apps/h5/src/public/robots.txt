@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /?s=*
+Sitemap: https://www.bitunix.com/sitemap.xml

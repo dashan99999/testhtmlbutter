@@ -1,0 +1,21 @@
+{
+  "title": "Saluran Verifikasi Resmi",
+  "tip": "Untuk memastikan bahwa Anda mengakses: {origin}",
+  "select.placeholder": "Seleziona il Canale",
+  "input.placeholder": "Silakan masukkan informasi kueri lengkap",
+  "text1": "Masukkan informasi untuk memverifikasi apakah informasi tersebut merupakan saluran resmi Bitunix",
+  "text2": "Kiat-kiat hangat:",
+  "text3": "Pastikan informasi yang Anda masukkan akurat, termasuk penggunaan huruf besar, spasi, dll.",
+  "text4": "Saat menanyakan situs web, masukkan URL lengkap yang dimulai dengan http:// atau https://.",
+  "text5": "Le informazioni che hai inerito è il bitunix ufficiale {type}",
+  "text6": "Le informazioni inserite non sono il bitunix ufficiale {type}",
+  "select.title": "Seleziona il Canale",
+  "type.email": "Kotak surat",
+  "type.phone": "nomor ponsel",
+  "type.website": "situs web",
+  "empty.tip": "Masukkan kueri",
+  "text7": "Untuk nomor ponsel, masukkan nomor lengkap yang dimulai dengan kode area, seperti: +94212345678",
+  "text8": "Untuk email, masukkan alamat email lengkap, dan perhatikan huruf besar/kecil karena bidang ini sensitif terhadap huruf besar/kecil.",
+  "text9": "Untuk media sosial, hanya URL media sosial yang didukung. Masukkan URL lengkap yang dimulai dengan http:// atau https://.",
+  "text10": "Saat memverifikasi akun WhatsApp, masukkan nomor lengkap yang dimulai dengan prefisso, ad es. +94212345678."
+}

@@ -1,0 +1,134 @@
+{
+  "resolutionLabels": {
+    "1": "1m",
+    "3": "3m",
+    "5": "5m",
+    "15": "15m",
+    "30": "30m",
+    "60": "1h",
+    "120": "2h",
+    "240": "4h",
+    "360": "6h",
+    "480": "8h",
+    "720": "12h",
+    "1D": "1d",
+    "3D": "3d",
+    "1W": "1w",
+    "1M": "1Mon"
+  },
+  "seriesType": {
+    "0": "Słupki",
+    "1": "Świece",
+    "2": "Linia",
+    "3": "Obszar",
+    "4": "Renko",
+    "5": "Kagi",
+    "6": "Punkt i figura",
+    "7": "Przełamanie linii",
+    "8": "Heikin Ashi",
+    "9": "Puste świece",
+    "10": "Linia bazowa",
+    "12": "High-low",
+    "13": "Kolumny",
+    "14": "Linia ze znacznikami",
+    "15": "Linia krokowa",
+    "16": "Obszar HLC"
+  },
+  "price": {
+    "new": "Ostatnia cena",
+    "index": "Cena indeksu",
+    "mark": "Cena znacznika"
+  },
+  "screenshot": "Migawka",
+  "setting": "Ustawienia wykresu",
+  "fullscreen": "Pełny ekran",
+  "clear": "Resetowanie wykresu",
+  "clear_success": "Pomyślne zresetowanie wykresu",
+  "indicator": "Wskaźnik",
+  "display": "Ustawienia wyświetlania",
+  "displayMenus": {
+    "orderQuick": "Szybkie zlecenie",
+    "children": {
+      "orderQuick": {
+        "orderQuickMarket": "Zlecenie rynkowe",
+        "orderQuickLimit": "Zlecenie z limitem"
+      },
+      "otherSettings": {
+        "highLowPriceLabels": "Wysoka i niska cena",
+        "countdown": "Odliczanie"
+      },
+      "positionCost": {
+        "positionCostLine": "Koszt linii pozycji",
+        "quickCloseButton": "[\"Quick Close\", \"Po włączeniu można zamknąć pozycję po cenie rynkowej bezpośrednio na wykresie świecowym\"].",
+        "quickTakeProfitStopLoss": [
+          "Quick TP/SL",
+          "Po włączeniu, można utworzyć Take Profit i Stop Loss, przeciągając je bezpośrednio na wykresie świecowym."
+        ]
+      },
+      "limitOrders": {
+        "limitOrderLine": "Linia zleceń Limit",
+        "quickPriceAdjustmentLimit": [
+          "Quick Price Change",
+          "Po włączeniu tej opcji można modyfikować cenę zlecenia, przeciągając ją bezpośrednio na wykres świecowy."
+        ],
+        "quickOrderCancellationLimit": [
+          "Szybkie anulowanie",
+          "Po włączeniu można szybko anulować zlecenia, klikając przycisk Anuluj na wykresie świecowym."
+        ]
+      },
+      "takeProfitStopLossOrders": {
+        "takeProfitStopLossLine": "Linia TP/SL",
+        "quickPriceAdjustmentTake": [
+          "Quick Price Change",
+          "Po włączeniu tej opcji można modyfikować cenę TP/SL, przeciągając ją bezpośrednio na wykresie świecowym."
+        ],
+        "quickOrderCancellationTake": [
+          "Szybkie anulowanie",
+          "Po włączeniu można szybko anulować zlecenia, klikając przycisk Anuluj na wykresie świecowym."
+        ]
+      }
+    },
+    "transactionRecords": "Historia transakcji",
+    "positionCost": "Koszt pozycji",
+    "limitOrders": "Zlecenie z limitem",
+    "takeProfitStopLossOrders": "Zlecenie TP/SL",
+    "otherSettings": "Inne ustawienia"
+  },
+  "order": {
+    "buy": "Kupno",
+    "sell": "Sprzedaj",
+    "limitBuy": "Kup",
+    "limitSell": "Sprzedaż",
+    "number": "Ilość",
+    "costValue": "Wartość kosztu",
+    "nominalValue": "Wartość nominalna",
+    "numberPlaceholder": "Wprowadź ilość",
+    "tipsy": {
+      "mini": "Minimalna ilość",
+      "close": "Zamknij",
+      "position": "Rozmiar pozycji",
+      "profit": "PnL",
+      "cancel": "Anuluj zamówienie",
+      "orderQuantity": "Ilość",
+      "limitPrice": "Limit",
+      "stopLoss": "Stop loss"
+    }
+  },
+  "connect": {
+    "connect_failed": "Sieć odłączona",
+    "connect_ok": "Stabilne połączenie",
+    "connect_retry": "Ponowne połączenie",
+    "connect_unstable": "Niestabilne połączenie"
+  },
+  "resolutionContent": {
+    "title": "Wybierz interwał",
+    "edit": "Edytuj",
+    "save": "Zapisz",
+    "add": "Dodano"
+  },
+  "saveImage": "Zapisz obraz",
+  "copyImage": "Kopiuj obraz",
+  "openImageNewTab": "Otwórz obraz w nowej karcie",
+  "copyImageAddress": "Kopiuj adres obrazu",
+  "selectLayout": "Wybierz układ"
+}

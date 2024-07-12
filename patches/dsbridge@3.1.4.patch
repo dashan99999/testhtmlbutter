@@ -1,0 +1,12 @@
+diff --git a/index.js b/index.js
+index 345c575869df72e1728dc359b8b1ef24bf993c57..2b90e6f318ad5f3abbd8f10b1a626ba3de740d3b 100644
+--- a/index.js
++++ b/index.js
+@@ -52,6 +52,7 @@ var bridge = {
+ };
+ 
+ !function () {
++    if (typeof window === 'undefined') return;
+     if (window._dsf) return;
+     var ob = {
+         _dsf: {

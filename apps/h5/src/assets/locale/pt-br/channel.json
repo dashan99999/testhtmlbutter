@@ -1,0 +1,21 @@
+{
+  "title": "Canal de verificação oficial de  ",
+  "tip": "Para garantir que você esteja acessando: {origin}",
+  "select.placeholder": "Selecione o canal",
+  "input.placeholder": "Por favor, insira as informações completas da consulta",
+  "text1": "Digite as informações para verificar se é um canal oficial de bitunix。",
+  "text2": "Lembrete amigável",
+  "text3": "Certifique -se de que as informações inseridas sejam precisas, incluindo capitalização, espaçamento, etc.",
+  "text4": "Ao consultar um site, digite o URL completo começando com http: // ou https: //.",
+  "text5": "A informação que você inseriu é o bitunix oficial {type}",
+  "text6": "As informações inseridas não são o bitunix oficial {type}",
+  "select.title": "Selecione o canal",
+  "type.email": "E-mail",
+  "type.phone": "número de telemóvel",
+  "type.website": "local na rede Internet",
+  "empty.tip": "Digite consulta",
+  "text7": "Para o número do celular, digite o número completo começando com o código da área, como: +94212345678",
+  "text8": "Para e-mails, digite o endereço de e-mail completo e preste atenção ao caso, pois esse campo é sensível ao caso.",
+  "text9": "Para as mídias sociais, apenas o URL da mídia social é apoiado. Por favor, digite o URL completo começando com http: // ou https: //.",
+  "text10": "Ao verificar a conta do WhatsApp, insira o número completo começando com o código de área, por exemplo. +94212345678."
+}

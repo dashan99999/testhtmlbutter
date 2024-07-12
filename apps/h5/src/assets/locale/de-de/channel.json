@@ -1,0 +1,21 @@
+{
+  "title": "  offizieller Verifizierungskanal",
+  "tip": "Um sicherzustellen, dass Sie zugreifen: {origin}",
+  "select.placeholder": "Kanal auswählen",
+  "input.placeholder": "Bitte geben Sie die vollständigen Abfrageinformationen ein",
+  "text1": "Geben Sie die Informationen ein, um zu überprüfen, ob es sich um einen offiziellen Bitunix -Kanal。 handelt.",
+  "text2": "Freundliche Erinnerung",
+  "text3": "Bitte stellen Sie sicher, dass die von Ihnen eingegebenen Informationen korrekt sind, einschließlich Großbuchstaben, Abstand usw.",
+  "text4": "Wenn Sie eine Website abfragen, geben Sie bitte die vollständige URL ein, beginnend mit http: // oder https: //.",
+  "text5": "Die von Ihnen eingegebenen Informationen sind der offizielle Bitunix {type}",
+  "text6": "Die von Ihnen eingegebenen Informationen sind nicht der offizielle Bitunix {type}",
+  "select.title": "Kanal auswählen",
+  "type.email": "Email",
+  "type.phone": "Handy, Mobiltelefon",
+  "type.website": "Webseite",
+  "empty.tip": "Abfrage eingeben",
+  "text7": "Für die Handynummer geben Sie die vollständige Nummer ab, beginnend mit dem Vorwahl, z. B.: +94212345678",
+  "text8": "Für E-Mails geben Sie bitte die vollständige E-Mail-Adresse ein und achten Sie auf den Fall, da dieses Feld fallempfindlich ist.",
+  "text9": "Für soziale Medien wird nur die Social -Media -URL unterstützt. Bitte geben Sie die vollständige URL ein, beginnend mit http: // oder https: //.",
+  "text10": "Geben Sie bei der Verifizierung Ihres WhatsApp-Kontos bitte die vollständige Nummer ein, beginnend mit der Vorwahl, z. B. +94212345678."
+}

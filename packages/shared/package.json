@@ -1,0 +1,17 @@
+{
+  "name": "@bitunix/shared",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc -p ./tsconfig.build.json"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pinia-plugin-persistedstate": "^3.0.2",
+    "pinia": "^2.1.6"
+  }
+}

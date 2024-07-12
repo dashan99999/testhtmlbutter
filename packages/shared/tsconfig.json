@@ -1,0 +1,55 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+
+    "module": "esnext",
+
+    "moduleResolution": "node",
+
+    "strict": true,
+
+    "noLib": false,
+
+    "forceConsistentCasingInFileNames": true,
+
+    "allowSyntheticDefaultImports": true,
+
+    "strictFunctionTypes": false,
+
+    "jsx": "preserve",
+
+    "baseUrl": ".",
+
+    "allowJs": true,
+
+    "sourceMap": true,
+
+    "esModuleInterop": true,
+
+    "resolveJsonModule": true,
+
+    "noUnusedLocals": true,
+
+    "noUnusedParameters": true,
+
+    "experimentalDecorators": true,
+
+    "lib": ["dom", "esnext"],
+
+    "noImplicitAny": false,
+
+    "skipLibCheck": true,
+
+    "removeComments": true,
+
+    // 解决测试文件中的 '--isolatedModules'报错
+
+    "isolatedModules": false,
+
+    "paths": {
+      "#shared/*": ["./*"]
+    }
+  },
+
+  "include": ["**/*.ts", "**/*.d.ts", "node_modules/pinia-plugin-persistedstate/**/*.d.ts"]
+}

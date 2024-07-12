@@ -1,0 +1,137 @@
+{
+  "resolutionLabels": {
+    "1": "1m",
+    "3": "3m",
+    "5": "5m",
+    "15": "15m",
+    "30": "30m",
+    "60": "1 giờ",
+    "120": "2 giờ",
+    "240": "4 giờ",
+    "360": "6h",
+    "480": "8 giờ",
+    "720": "12h",
+    "1D": "1 ngày",
+    "3D": "3d",
+    "1W": "1 tuần",
+    "1M": "1tháng 2"
+  },
+  "seriesType": {
+    "0": "Hình Thanh",
+    "1": "Biểu đồ nến",
+    "2": "Đường thẳng",
+    "3": "Biểu đồ vùng",
+    "4": "Renko",
+    "5": "Kagi",
+    "6": "Điểm & Số liệu",
+    "7": "Đường ngắt",
+    "8": "Heikin Ashi",
+    "9": "Biểu đồ nến Hollow",
+    "10": "Đường cơ sở",
+    "12": "Đỉnh-Đáy",
+    "13": "Cột",
+    "14": "Dòng có điểm đánh dấu",
+    "15": "Biểu đồ Đường bậc",
+    "16": "Vùng HLC"
+  },
+  "price": {
+    "new": "Giá cuối cùng",
+    "index": "Giá chỉ số",
+    "mark": "Đánh dấu giá"
+  },
+  "screenshot": "Ảnh chụp nhanh",
+  "setting": "Cài đặt biểu đồ",
+  "fullscreen": "Toàn màn hình",
+  "clear": "Đặt lại biểu đồ",
+  "clear_success": "Đặt lại biểu đồ thành công",
+  "indicator": "Chỉ số",
+  "display": "Cài đặt hiển thị",
+  "displayMenus": {
+    "orderQuick": "Đặt hàng nhanh",
+    "children": {
+      "orderQuick": {
+        "orderQuickMarket": "Thị trường",
+        "orderQuickLimit": "Hạn chế thứ tự"
+      },
+      "otherSettings": {
+        "highLowPriceLabels": "Giá cao và thấp",
+        "countdown": "Đếm ngược"
+      },
+      "positionCost": {
+        "positionCostLine": "Chi phí của dòng vị trí",
+        "quickCloseButton": [
+          "Đóng nhanh",
+          "Khi được bật, bạn có thể đóng vị thế theo giá thị trường trực tiếp trên biểu đồ nến"
+        ],
+        "quickTakeProfitStopLoss": [
+          "TP/SL nhanh",
+          "Khi được bật, bạn có thể tạo Chốt lời và Cắt lỗ bằng cách kéo trực tiếp trên biểu đồ nến."
+        ]
+      },
+      "limitOrders": {
+        "limitOrderLine": "Dòng lệnh giới hạn",
+        "quickPriceAdjustmentLimit": [
+          "Thay đổi giá nhanh",
+          "Khi được bật, bạn có thể sửa đổi giá đặt lệnh bằng cách kéo giá đó trực tiếp trên biểu đồ nến."
+        ],
+        "quickOrderCancellationLimit": [
+          "Hủy nhanh",
+          "Sau khi được bật, bạn có thể nhanh chóng hủy lệnh bằng cách nhấp vào nút Hủy trên biểu đồ nến."
+        ]
+      },
+      "takeProfitStopLossOrders": {
+        "takeProfitStopLossLine": "Đường TP/SL",
+        "quickPriceAdjustmentTake": [
+          "Thay đổi giá nhanh",
+          "Khi được bật, bạn có thể sửa đổi giá TP/SL bằng cách kéo giá đó trực tiếp trên biểu đồ nến."
+        ],
+        "quickOrderCancellationTake": [
+          "Hủy nhanh",
+          "Sau khi được bật, bạn có thể nhanh chóng hủy lệnh bằng cách nhấp vào nút Hủy trên biểu đồ nến."
+        ]
+      }
+    },
+    "transactionRecords": "Lịch sử giao dịch",
+    "positionCost": "Chi phí vị thế",
+    "limitOrders": "Lệnh giới hạn",
+    "takeProfitStopLossOrders": "Lệnh TP/SL",
+    "otherSettings": "Các thiết lập khác"
+  },
+  "order": {
+    "buy": "Mua",
+    "sell": "Bán",
+    "limitBuy": "Mua",
+    "limitSell": "Bán",
+    "number": "Số lượng",
+    "costValue": "Giá trị chi phí",
+    "nominalValue": "Giá trị danh nghĩa",
+    "numberPlaceholder": "Nhập số lượng",
+    "tipsy": {
+      "mini": "Tối thiểu. Số lượng",
+      "close": "Đóng",
+      "position": "Kích thước vị thế",
+      "profit": "PnL",
+      "cancel": "Hủy đơn hàng",
+      "orderQuantity": "Số lượng",
+      "limitPrice": "Giới hạn",
+      "stopLoss": "Chặn đứng tổn thất"
+    }
+  },
+  "connect": {
+    "connect_failed": "Mạng bị ngắt kết nối",
+    "connect_ok": "Kết nối ổn định",
+    "connect_retry": "Đang kết nối lại",
+    "connect_unstable": "Kết nối không ổn định"
+  },
+  "resolutionContent": {
+    "title": "Chọn khoảng thời gian",
+    "edit": "Biên tập",
+    "save": "Cứu",
+    "add": "Thêm"
+  },
+  "saveImage": "Lưu hình ảnh",
+  "copyImage": "Sao chép hình ảnh",
+  "openImageNewTab": "Mở hình ảnh trong trang mới",
+  "copyImageAddress": "Sao chép địa chỉ hình ảnh",
+  "selectLayout": "Chọn Bố cục"
+}

@@ -1,0 +1,55 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "paths": [
+          "*"
+        ],
+        "appID": "5A49K2DY2N.com.bitunix.ios.dev"
+      },
+      {
+        "paths": [
+          "*"
+        ],
+        "appID": "5A49K2DY2N.com.bitunix.ios.test"
+      },
+      {
+        "paths": [
+          "*"
+        ],
+        "appID": "5A49K2DY2N.com.bitunix.ios.uat"
+      },
+      {
+        "paths": [
+          "*"
+        ],
+        "appID": "5A49K2DY2N.com.bitunix.ios-"
+      },
+      {
+        "paths": [
+          "/activity/partner-trading","/activity/futures-trading"
+        ],
+        "appID": "5A49K2DY2N.com.bitunix.ios.dev"
+      },
+      {
+        "paths": [
+          "/activity/partner-trading","/activity/futures-trading"
+        ],
+        "appID": "5A49K2DY2N.com.bitunix.ios.test"
+      },
+      {
+        "paths": [
+          "/activity/partner-trading","/activity/futures-trading"
+        ],
+        "appID": "5A49K2DY2N.com.bitunix.ios.uat"
+      },
+      {
+        "paths": [
+          "/activity/partner-trading","/activity/futures-trading"
+        ],
+        "appID": "5A49K2DY2N.com.bitunix.ios-"
+      }
+    ],
+    "apps": []
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "resolutionLabels": {
+    "1": "1m",
+    "3": "3m",
+    "5": "5m",
+    "15": "15m",
+    "30": "30m",
+    "60": "1h",
+    "120": "2h",
+    "240": "4h",
+    "360": "6h",
+    "480": "8h",
+    "720": "12h",
+    "1D": "1d",
+    "3D": "3d",
+    "1W": "1w",
+    "1M": "1Bulan"
+  },
+  "seriesType": {
+    "0": "Batang",
+    "1": "Lilin",
+    "2": "Garis",
+    "3": "Area",
+    "4": "Renko",
+    "5": "Kagi",
+    "6": "Titik & angka",
+    "7": "Pemutusan garis",
+    "8": "Heikin Ashi",
+    "9": "Lilin berongga",
+    "10": "Garis dasar",
+    "12": "Tinggi-rendah",
+    "13": "Kolom",
+    "14": "Garis dengan spidol",
+    "15": "Garis langkah",
+    "16": "Area HLC"
+  },
+  "price": {
+    "new": "Harga terakhir",
+    "index": "Harga indeks",
+    "mark": "Tandai harga"
+  },
+  "screenshot": "Jepretan",
+  "setting": "Pengaturan grafik",
+  "fullscreen": "Layar penuh",
+  "clear": "Atur ulang grafik",
+  "clear_success": "Berhasil mengatur ulang grafik",
+  "indicator": "Indikator",
+  "display": "Pengaturan tampilan",
+  "displayMenus": {
+    "orderQuick": "Pesanan cepat",
+    "children": {
+      "orderQuick": {
+        "orderQuickMarket": "Pesanan pasar",
+        "orderQuickLimit": "Batasi pesanan"
+      },
+      "otherSettings": {
+        "highLowPriceLabels": "Harga tinggi dan rendah",
+        "countdown": "Hitung mundur"
+      },
+      "positionCost": {
+        "positionCostLine": "Biaya garis posisi",
+        "quickCloseButton": [
+          "Penutupan Cepat",
+          "Jika diaktifkan, Anda dapat menutup posisi pada harga pasar secara langsung pada grafik Candlestick"
+        ],
+        "quickTakeProfitStopLoss": [
+          "Quick TP/SL",
+          "Jika diaktifkan, Anda dapat membuat Take Profit dan Stop Loss dengan menyeretnya langsung pada grafik Candlestick."
+        ]
+      },
+      "limitOrders": {
+        "limitOrderLine": "Batas garis order",
+        "quickPriceAdjustmentLimit": [
+          "Quick Price Change",
+          "Ketika diaktifkan, Anda dapat mengubah harga order dengan menyeretnya secara langsung pada grafik Candlestick."
+        ],
+        "quickOrderCancellationLimit": [
+          "Quick Cancel",
+          "Setelah diaktifkan, Anda dapat dengan cepat membatalkan order dengan mengklik tombol Cancel pada grafik Candlestick."
+        ]
+      },
+      "takeProfitStopLossOrders": {
+        "takeProfitStopLossLine": "Garis TP/SL",
+        "quickPriceAdjustmentTake": [
+          "Perubahan Harga Cepat",
+          "Ketika diaktifkan, Anda dapat mengubah harga TP/SL dengan menyeretnya secara langsung pada grafik Candlestick."
+        ],
+        "quickOrderCancellationTake": [
+          "Quick Cancel",
+          "Setelah diaktifkan, Anda dapat dengan cepat membatalkan order dengan mengklik tombol Cancel pada grafik Candlestick."
+        ]
+      }
+    },
+    "transactionRecords": "Riwayat perdagangan",
+    "positionCost": "Biaya posisi",
+    "limitOrders": "Pesanan batas",
+    "takeProfitStopLossOrders": "Pesanan TP / SL",
+    "otherSettings": "Pengaturan lainnya"
+  },
+  "order": {
+    "buy": "Beli",
+    "sell": "Jual",
+    "limitBuy": "Beli",
+    "limitSell": "Jual",
+    "number": "Kuantitas",
+    "costValue": "Nilai biaya",
+    "nominalValue": "Nilai nominal",
+    "numberPlaceholder": "Masukkan kuantitas",
+    "tipsy": {
+      "mini": "Min. kuantitas",
+      "close": "Tutup",
+      "position": "Ukuran posisi",
+      "profit": "PnL",
+      "cancel": "Batalkan pesanan",
+      "orderQuantity": "Kuantitas",
+      "limitPrice": "Batas",
+      "stopLoss": "Hentikan kerugian"
+    }
+  },
+  "connect": {
+    "connect_failed": "Jaringan terputus",
+    "connect_ok": "Koneksi stabil",
+    "connect_retry": "Menghubungkan kembali",
+    "connect_unstable": "Koneksi tidak stabil"
+  },
+  "resolutionContent": {
+    "title": "Pilih interval",
+    "edit": "Edit",
+    "save": "Simpan",
+    "add": "Menambahkan"
+  },
+  "saveImage": "Menyimpan Gambar",
+  "copyImage": "Menyalin Gambar",
+  "openImageNewTab": "Buka Gambar di Tab Baru",
+  "copyImageAddress": "Salin Alamat Gambar",
+  "selectLayout": "Pilih Tata Letak"
+}

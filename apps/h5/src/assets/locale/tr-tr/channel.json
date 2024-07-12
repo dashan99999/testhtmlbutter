@@ -1,0 +1,21 @@
+{
+  "title": "Resmi Doğrulama Kanalı",
+  "tip": "Erişim sağladığınızdan emin olmak için: {origin}",
+  "select.placeholder": "Kanal seçin",
+  "input.placeholder": "Lütfen sorgu bilgilerinin tamamını girin",
+  "text1": "Resmi bir Bitunix kanalı olup olmadığını doğrulamak için bilgileri girin",
+  "text2": "Dostça hatırlatma",
+  "text3": "Lütfen girdiğiniz bilgilerin büyük harf kullanımı, boşluklar vb. dahil doğru olduğundan emin olun.",
+  "text4": "Bir web sitesini sorgularken, lütfen http: // veya https: // ile başlayarak tam URL'yi girin.",
+  "text5": "Girdiğiniz bilgiler resmi Bitunix {type}",
+  "text6": "Girdiğiniz bilgiler resmi Bitunix {type}",
+  "select.title": "Kanal seçin",
+  "type.email": "E-posta",
+  "type.phone": "Cep numarası",
+  "type.website": "İnternet sitesi",
+  "empty.tip": "Sorguyu girin",
+  "text7": "Cep numarası için lütfen alan kodundan başlayarak tam numarayı girin, örneğin: +94212345678",
+  "text8": "E-postalar için lütfen tüm e-posta adresini girin ve bu alan duruma duyarlı olduğundan duruma dikkat edin.",
+  "text9": "Sosyal medya için yalnızca sosyal medya URL'si desteklenir. Lütfen http: // veya https: // ile başlayarak tam URL'yi girin.",
+  "text10": "WhatsApp hesabını doğrularken lütfen alan koduyla başlayan numaranın tamamını girin, ör. +94212345678."
+}

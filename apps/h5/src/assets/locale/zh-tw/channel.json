@@ -1,0 +1,21 @@
+{
+  "title": "官方驗證通道",
+  "tip": "確保您正在訪問：{origin}",
+  "select.placeholder": "請選擇渠道",
+  "input.placeholder": "請輸入完整的查詢信息",
+  "text1": "請輸入相應信息查詢是否是Bitunix官方渠道。",
+  "text2": "溫馨提示：",
+  "text3": "請確保您所輸入的信息正確無誤，包含大小寫、長短線等",
+  "text4": "查詢網址時，請輸入以http:// 或 https:// 開頭的完整網址",
+  "text5": "您查詢的信息是Bitunix官方{type}",
+  "text6": "您查詢的信息不是Bitunix官方{type}",
+  "select.title": "選擇渠道",
+  "type.email": "郵箱",
+  "type.phone": "手機",
+  "type.website": "網址",
+  "empty.tip": "請輸入查詢內容",
+  "text7": "查詢手機號時，請輸入以區號開頭的完整號碼，例:+94212345678",
+  "text8": "查詢郵箱時，請輸入完整的郵箱地址，同時注意大小寫",
+  "text9": "查詢社交媒體時，僅支持輸入社媒網址查詢，請輸入以http:// 或 https:// 開頭的完整網址",
+  "text10": "查詢WhatsApp賬號時，請輸入以區號開頭的完整號碼，例:+94212345678"
+}

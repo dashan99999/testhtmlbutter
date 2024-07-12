@@ -1,0 +1,137 @@
+{
+  "resolutionLabels": {
+    "1": "1m",
+    "3": "3m",
+    "5": "5m",
+    "15": "15m",
+    "30": "30m",
+    "60": "1 saat",
+    "120": "2 saat",
+    "240": "4h",
+    "360": "6h",
+    "480": "8h",
+    "720": "12 saat",
+    "1D": "1d",
+    "3D": "3 Boyutlu",
+    "1W": "1w",
+    "1M": "1mon"
+  },
+  "seriesType": {
+    "0": "Barras",
+    "1": "Velas",
+    "2": "Linha",
+    "3": "Área ",
+    "4": "Renko",
+    "5": "Kagi",
+    "6": "Nokta ve figür",
+    "7": "Satır Sonu",
+    "8": "Heikin Ashi",
+    "9": "Boş Mumlar",
+    "10": "Taban Çizgisi",
+    "12": "Yüksek -",
+    "13": "Sütunlar",
+    "14": "İşaretler Ile Çizgi",
+    "15": "Adım",
+    "16": "HLC Alanı"
+  },
+  "price": {
+    "new": "Filho fiyat",
+    "index": "Endeks fiyatı",
+    "mark": "İşaret Fiyatı"
+  },
+  "screenshot": "Enstantane Fotoğraf",
+  "setting": "Grafik Ayarları",
+  "fullscreen": "Tam Ekran",
+  "clear": "Redefinir gráfico",
+  "clear_success": "Redefinir gráfico com sucesso",
+  "indicator": "Gösterge",
+  "display": "Görüntü Ayarları",
+  "displayMenus": {
+    "orderQuick": "Hızlı Sipariş",
+    "children": {
+      "orderQuick": {
+        "orderQuickMarket": "Mercado",
+        "orderQuickLimit": "Ordem limite"
+      },
+      "otherSettings": {
+        "highLowPriceLabels": "Preço alto e baixo",
+        "countdown": "Contagem regressiva"
+      },
+      "positionCost": {
+        "positionCostLine": "Pozisyon Hattı Maliyeti",
+        "quickCloseButton": [
+          "Quick Close",
+          "Etkinleştirildiğinde, piyasa fiyatındaki pozisyonu doğrudan şamdan grafiğinde kapatabilirsiniz"
+        ],
+        "quickTakeProfitStopLoss": [
+          "Quick TP/SL",
+          "Quando ativado, você pode criar Take Profit e Stop Loss arrastando-os diretamente no gráfico de velas."
+        ]
+      },
+      "limitOrders": {
+        "limitOrderLine": "Sípariş hattı",
+        "quickPriceAdjustmentLimit": [
+          "Modifica rapida del prezzo",
+          "Quando ativado, você pode modificar o preço do pedido arrastando-o diretamente no gráfico de velas"
+        ],
+        "quickOrderCancellationLimit": [
+          "Annullamento rapido",
+          "Uma vez ativado, você pode cancelar rapidamente as ordens clicando no botão Cancelar no gráfico de velas"
+        ]
+      },
+      "takeProfitStopLossOrders": {
+        "takeProfitStopLossLine": "Tp/sl hattı",
+        "quickPriceAdjustmentTake": [
+          "Modifica rapida del prezzo",
+          "Quando ativado, você pode modificar o preço TP/SL arrastando-o diretamente no gráfico de velas."
+        ],
+        "quickOrderCancellationTake": [
+          "Annullamento rapido",
+          "Uma vez ativado, você pode cancelar rapidamente as ordens clicando no botão Cancelar no gráfico de velas"
+        ]
+      }
+    },
+    "transactionRecords": "Ticaret Tarihi",
+    "positionCost": "Pozisyon Maliyeti",
+    "limitOrders": "Siparişi Siparişi",
+    "takeProfitStopLossOrders": "TP/SL SIPARII",
+    "otherSettings": "Outros ajustes"
+  },
+  "order": {
+    "buy": "Satın Almak",
+    "sell": "Satmak",
+    "limitBuy": "Satın Almak",
+    "limitSell": "Satmak",
+    "number": "Miktar",
+    "costValue": "Valor de custo",
+    "nominalValue": "Valor nominal",
+    "numberPlaceholder": "Digite a quantidade",
+    "tipsy": {
+      "mini": "Min. Miktar",
+      "close": "Kapalı",
+      "position": "Pozisyon Boyutu",
+      "profit": "PnL",
+      "cancel": "Siparişi iptal et",
+      "orderQuantity": "Miktar",
+      "limitPrice": "Sınırlamak",
+      "stopLoss": "Kaybı Durdurmak"
+    }
+  },
+  "connect": {
+    "connect_failed": "Ağ Bağlantısı Kesildi",
+    "connect_ok": "Kararlı Bağlantı",
+    "connect_retry": "Yeniden Bağlama",
+    "connect_unstable": "Kararsız Bağlantı"
+  },
+  "resolutionContent": {
+    "title": "Aralık Seçin",
+    "edit": "Düzenlemek",
+    "save": "Kaydetmek",
+    "add": "Katma"
+  },
+  "saveImage": "Salvar imagem",
+  "copyImage": "Copiar imagem",
+  "openImageNewTab": "Abra a imagem em uma nova aba",
+  "copyImageAddress": "Copie o endereço da imagem",
+  "selectLayout": "Selecione layout"
+}

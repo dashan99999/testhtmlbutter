@@ -1,0 +1,137 @@
+{
+  "resolutionLabels": {
+    "1": "1m",
+    "3": "3m",
+    "5": "5m",
+    "15": "15m",
+    "30": "30m",
+    "60": "1h",
+    "120": "2h",
+    "240": "4h",
+    "360": "6h",
+    "480": "8h",
+    "720": "12h",
+    "1D": "1d",
+    "3D": "3d",
+    "1W": "1w",
+    "1M": "1Mon"
+  },
+  "seriesType": {
+    "0": "US-Linien",
+    "1": "K-Linien-Diagramm",
+    "2": "Liniendiagramm",
+    "3": "Flächenchart",
+    "4": "Renko",
+    "5": "Kagi-Diagramm",
+    "6": "Punkt und Figur",
+    "7": "Neue Preislinie",
+    "8": "Durchschnittlicher K-Linien-Chart",
+    "9": "Hohle K-Linie",
+    "10": "Grundlinie",
+    "12": "Hoch-Tief",
+    "13": "Balkendiagramm",
+    "14": "Markierte Linien",
+    "15": "Abgestufte Linien",
+    "16": "HLC-Bereich"
+  },
+  "price": {
+    "new": "Letzter Kurs",
+    "index": "Index Preis",
+    "mark": "Markierte Preise"
+  },
+  "screenshot": "Schnappschuss",
+  "setting": "Chart-Einstellungen",
+  "fullscreen": "Vollbild",
+  "clear": "Chart zurücksetzen",
+  "clear_success": "Chart zurücksetzen Erfolg",
+  "indicator": "Technische Indikatoren",
+  "display": "Anzeige-Einstellungen",
+  "displayMenus": {
+    "orderQuick": "Schnellauftrag",
+    "children": {
+      "orderQuick": {
+        "orderQuickMarket": "Markt",
+        "orderQuickLimit": "Bestellung begrenzen"
+      },
+      "otherSettings": {
+        "highLowPriceLabels": "Hoher und niedriger Preis",
+        "countdown": "Countdown"
+      },
+      "positionCost": {
+        "positionCostLine": "Position Cost Line",
+        "quickCloseButton": [
+          "Quick Close Button",
+          "Wenn aktiviert, können Sie Market Close direkt auf dem K-Chart ausführen."
+        ],
+        "quickTakeProfitStopLoss": [
+          "Quick Take Profit and Stop Loss",
+          "Wenn aktiviert, können Sie einen Take Profit und Stop Loss erstellen, indem Sie ihn direkt auf den K-Chart ziehen."
+        ]
+      },
+      "limitOrders": {
+        "limitOrderLine": "Limit-Order-Linie",
+        "quickPriceAdjustmentLimit": [
+          "Quick Price Change",
+          "Wenn aktiviert, können Sie den Kommissionspreis ändern, indem Sie ihn direkt auf das K-Chart ziehen."
+        ],
+        "quickOrderCancellationLimit": [
+          "Quick Withdrawal",
+          "Wenn diese Option aktiviert ist, können Sie Aufträge direkt im K-Chart mit der Schaltfläche 'Withdraw' schnell zurückziehen"
+        ]
+      },
+      "takeProfitStopLossOrders": {
+        "takeProfitStopLossLine": "Gewinnmitnahme Stop Loss Linie",
+        "quickPriceAdjustmentTake": [
+          "Quick Price Change",
+          "Wenn aktiviert, können Sie die Take Profit- und Stop Loss-Kurse durch Ziehen direkt im K-Chart ändern."
+        ],
+        "quickOrderCancellationTake": [
+          "Quick Withdrawal",
+          "Wenn diese Funktion aktiviert ist, können Sie Aufträge direkt im K-Chart mit der Schaltfläche 'Withdraw' schnell zurückziehen"
+        ]
+      }
+    },
+    "transactionRecords": "Transaktionshistorie",
+    "positionCost": "Kosten der Positionen",
+    "limitOrders": "Limit-Auftrag",
+    "takeProfitStopLossOrders": "Gewinnmitnahme Stop Loss Order",
+    "otherSettings": "Andere Einstellungen"
+  },
+  "order": {
+    "buy": "Markt Kaufen",
+    "sell": "Markt Verkaufen",
+    "limitBuy": "Limit Kaufen",
+    "limitSell": "Verkauf Limit",
+    "number": "Menge",
+    "costValue": "Einstandswert",
+    "nominalValue": "Nominalwert",
+    "numberPlaceholder": "Bitte geben Sie die Anzahl der Aufträge ein",
+    "tipsy": {
+      "mini": "Mindestbestellmenge",
+      "close": "Position schließen",
+      "position": "Gehaltene Position",
+      "profit": "PnL",
+      "cancel": "Rückzug",
+      "orderQuantity": "Beauftragtes Volumen",
+      "limitPrice": "Begrenzung",
+      "stopLoss": "Stop-Loss"
+    }
+  },
+  "connect": {
+    "connect_failed": "Unterbrechung der Netzwerkverbindung",
+    "connect_ok": "Stabile Verbindung",
+    "connect_retry": "Wiederherstellung der Verbindung",
+    "connect_unstable": "Instabile Verbindung"
+  },
+  "resolutionContent": {
+    "title": "Zyklus auswählen",
+    "edit": "Bearbeiten",
+    "save": "Speichern",
+    "add": "Hinzugefügt"
+  },
+  "saveImage": "Bild speichern",
+  "copyImage": "Kopiere das Bild",
+  "openImageNewTab": "Öffne das Bild in einem neuen Tab",
+  "copyImageAddress": "Bildadresse kopieren",
+  "selectLayout": "Layout auswählen"
+}

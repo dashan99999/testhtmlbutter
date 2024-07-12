@@ -1,0 +1,207 @@
+{
+  "typescript.tsdk": "./node_modules/typescript/lib",
+  "npm.packageManager": "pnpm",
+  "editor.tabSize": 2,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/*.log": true,
+    "**/*.log*": true,
+    "**/bower_components": true,
+    "**/dist": true,
+    "**/elehukouben": true,
+    "**/.git": true,
+    "**/.gitignore": true,
+    "**/.svn": true,
+    "**/.DS_Store": true,
+    "**/.idea": true,
+    "**/.vscode": false,
+    "**/yarn.lock": true,
+    "**/tmp": true,
+    "out": true,
+    "dist": true,
+    "node_modules": true,
+    "CHANGELOG.md": true,
+    "examples": true,
+    "res": true,
+    "screenshots": true,
+    "yarn-error.log": true,
+    "**/.yarn": true
+  },
+  "files.exclude": {
+    "**/.cache": true,
+    "**/.editorconfig": true,
+    "**/.eslintcache": true,
+    "**/bower_components": true,
+    "**/.idea": true,
+    "**/tmp": true,
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true
+  },
+  "search.useIgnoreFiles": false,
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/.vscode/**": true,
+    "**/node_modules/**": true,
+    "**/tmp/**": true,
+    "**/bower_components/**": true,
+    "**/dist/**": true,
+    "**/yarn.lock": true
+  },
+
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[less]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "[vue]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "explicit",
+      "source.fixAll.stylelint": "explicit"
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "i18n-ally.keystyle": "flat",
+  "i18n-ally.enabledParsers": ["json"],
+  "i18n-ally.sourceLanguage": "zh-cn",
+  "i18n-ally.displayLanguage": "zh-cn",
+  "i18n-ally.enabledFrameworks": ["vue"],
+  "i18n-ally.translate.engines": ["google"],
+  "i18n-ally.namespace": true,
+  "i18n-ally.pathMatcher": "{locale}/{namespace}.json",
+  "cSpell.words": [
+    "antd",
+    "antv",
+    "assetsoverview",
+    "bignumber",
+    "bitgreen",
+    "bitunix",
+    "bitunixweb",
+    "blimone",
+    "brotli",
+    "browserslist",
+    "BTCUSDT",
+    "calsses",
+    "calutate",
+    "capitalflow",
+    "clonedeep",
+    "codemirror",
+    "coinsymbol",
+    "commitlint",
+    "contracttrade",
+    "cropperjs",
+    "DEFAULTBASESYMBOL",
+    "DEFAULTCOINCOLUMN",
+    "DEFAULTKEY",
+    "DEFAULTPRECISION",
+    "destory",
+    "Doption",
+    "echarts",
+    "esnext",
+    "esno",
+    "eventbus",
+    "futureswsapi",
+    "gapi",
+    "gsap",
+    "homeindex",
+    "homemarket",
+    "iconify",
+    "INTLIFY",
+    "jssdk",
+    "kubeconfig",
+    "lint-staged",
+    "lintstagedrc",
+    "localstore",
+    "logicflow",
+    "mainbutton",
+    "maindark",
+    "marginbottom",
+    "mkcert",
+    "mockjs",
+    "nodata",
+    "nprogress",
+    "openapi",
+    "persistedstate",
+    "pinia",
+    "pnpm",
+    "preinstall",
+    "Pword",
+    "pxtorem",
+    "qrcode",
+    "sider",
+    "sortablejs",
+    "spotaccount",
+    "spottrade",
+    "staticresource",
+    "stylelint",
+    "STYLEURL",
+    "swiper",
+    "tailwindcss",
+    "THROTTLEFNTIME",
+    "tinymce",
+    "toopen",
+    "unocss",
+    "unplugin",
+    "unsub",
+    "vant",
+    "vben",
+    "vditor",
+    "VITE",
+    "vitejs",
+    "vueuse",
+    "wamp",
+    "windi",
+    "windicss",
+    "wsapi",
+    "zxcvbn"
+  ],
+  "i18n-ally.extract.keyMaxLength": 10,
+  "i18n-ally.extract.targetPickingStrategy": "most-similar",
+  "i18n-ally.fullReloadOnChanged": true,
+  "[dotenv]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  // 控制相关文件嵌套展示
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.expand": false,
+  "explorer.fileNesting.patterns": {
+    "*.ts": "$(capture).test.ts, $(capture).test.tsx",
+    "*.tsx": "$(capture).test.ts, $(capture).test.tsx",
+    "*.env": "$(capture).env.*",
+    "CHANGELOG.md": "CHANGELOG*",
+    "package.json": "pnpm-lock.yaml,pnpm-workspace.yaml,LICENSE,.gitattributes,.gitignore,.gitpod.yml,CNAME,.npmrc,.browserslistrc",
+    ".eslintrc.js": ".eslintignore,.prettierignore,.stylelintignore,.commitlintrc.js,.prettierrc.js,.stylelintrc.js",
+    "vite.config.ts": "plopfile.js,prettier.config.js,stylelint.config.js,unocss.config.ts,tsconfig.json",
+    "Dockerfile": "default.conf"
+  },
+  "[xml]": {
+    "editor.defaultFormatter": "redhat.vscode-xml"
+  },
+  "i18n-ally.localesPaths": ["apps/h5/src/assets/locale"],
+  "unocss.root": "apps/h5",
+  "[ignore]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  }
+}
